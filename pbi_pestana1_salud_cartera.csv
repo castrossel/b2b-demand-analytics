@@ -1,0 +1,561 @@
+﻿rut,razon social,sector_economico_ciiu,total_unidades,total_pedidos,primera_compra,ultima_compra,tbo_mediana,tbo_referencia,recencia_dias,unidades_ultimo_pedido,unidades_promedio_previas,var_pct_volumen,estado_cartera,subtipo_fuga
+CLI_0001,Empresa Corporativa CLI_0001,Comercio al por Mayor y Menor,188,15,2023-08-03,2025-11-21,31.0,31.0,250,3,13.214285714285714,-77.29729729729729,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0002,Empresa Corporativa CLI_0002,Transporte y Almacenamiento,54,3,2023-11-13,2024-11-22,187.5,187.5,614,10,22.0,-54.54545454545454,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0003,Empresa Corporativa CLI_0003,Otras Actividades de Servicios Generales,13,1,2024-07-18,2024-07-18,,47.5,741,13,13.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0004,Empresa Corporativa CLI_0004,Otras Actividades de Servicios (Comunidades y Edificios),89,3,2025-04-22,2025-06-25,32.0,32.0,399,11,39.0,-71.7948717948718,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0005,Empresa Corporativa CLI_0005,Industria Manufacturera Alimenticia y Gastronomía,64,4,2023-08-17,2025-07-24,140.0,140.0,370,26,12.666666666666666,105.26315789473686,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0006,Empresa Corporativa CLI_0006,Otras Actividades de Servicios (Comunidades y Edificios),72,6,2024-11-06,2025-05-15,32.0,32.0,440,2,14.0,-85.71428571428571,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0007,Empresa Corporativa CLI_0007,Otras Actividades de Servicios Generales,7,1,2025-08-12,2025-08-12,,47.5,351,7,7.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0008,Empresa Corporativa CLI_0008,Otras Actividades de Servicios (Comunidades y Edificios),6,1,2024-07-18,2024-07-18,,36.0,741,6,6.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0009,Empresa Corporativa CLI_0009,Otras Actividades de Servicios (Comunidades y Edificios),101,5,2024-07-15,2025-09-09,34.0,34.0,323,1,25.0,-96.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0010,Empresa Corporativa CLI_0010,Industria Manufacturera Alimenticia y Gastronomía,59,1,2025-08-04,2025-08-04,,21.5,359,59,59.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0011,Empresa Corporativa CLI_0011,Otras Actividades de Servicios Generales,30,1,2024-10-15,2024-10-15,,47.5,652,30,30.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0012,Empresa Corporativa CLI_0012,Otras Actividades de Servicios Generales,118,1,2024-10-17,2024-10-17,,47.5,650,118,118.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0013,Empresa Corporativa CLI_0013,Otras Actividades de Servicios (Comunidades y Edificios),71,4,2024-01-11,2025-04-29,201.0,201.0,456,15,18.666666666666668,-19.64285714285715,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0014,Empresa Corporativa CLI_0014,Comercio al por Mayor y Menor,64,4,2023-12-07,2025-05-13,166.0,166.0,442,16,16.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0015,Empresa Corporativa CLI_0015,Enseñanza / Educación,41,1,2025-01-23,2025-01-23,,43.0,552,41,41.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0016,Empresa Corporativa CLI_0016,Enseñanza / Educación,99,3,2023-07-31,2024-08-28,197.0,197.0,700,25,37.0,-32.432432432432435,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0017,Empresa Corporativa CLI_0017,Transporte y Almacenamiento,76,3,2023-09-22,2024-12-23,229.0,229.0,583,2,37.0,-94.5945945945946,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0018,Empresa Corporativa CLI_0018,Industria Manufacturera Alimenticia y Gastronomía,119,2,2025-01-10,2025-01-30,20.0,20.0,545,1,118.0,-99.15254237288136,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0019,Empresa Corporativa CLI_0019,Otras Actividades de Servicios (Comunidades y Edificios),182,5,2024-05-13,2025-05-06,94.5,94.5,449,7,43.75,-84.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0020,Empresa Corporativa CLI_0020,Otras Actividades de Servicios (Comunidades y Edificios),6,1,2024-02-23,2024-02-23,,36.0,887,6,6.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0021,Empresa Corporativa CLI_0021,Otras Actividades de Servicios Generales,5,1,2024-07-15,2024-07-15,,47.5,744,5,5.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0022,Empresa Corporativa CLI_0022,Comercio al por Mayor y Menor,169,15,2023-12-06,2025-10-13,34.5,34.5,289,8,11.5,-30.434782608695656,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0023,Empresa Corporativa CLI_0023,Transporte y Almacenamiento,67,1,2024-11-13,2024-11-13,,37.0,623,67,67.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0024,Empresa Corporativa CLI_0024,Otras Actividades de Servicios Generales,6,1,2023-08-03,2023-08-03,,47.5,1091,6,6.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0025,Empresa Corporativa CLI_0025,Administración Pública y Defensa,209,3,2023-09-27,2023-11-24,29.0,29.0,978,2,103.5,-98.06763285024155,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0026,Empresa Corporativa CLI_0026,Otras Actividades de Servicios Generales,4,1,2024-01-03,2024-01-03,,47.5,938,4,4.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0027,Empresa Corporativa CLI_0027,Otras Actividades de Servicios Generales,19,1,2024-12-16,2024-12-16,,47.5,590,19,19.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0028,Empresa Corporativa CLI_0028,Otras Actividades de Servicios Generales,118,1,2023-10-12,2023-10-12,,47.5,1021,118,118.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0029,Empresa Corporativa CLI_0029,Otras Actividades de Servicios (Comunidades y Edificios),15,1,2025-06-19,2025-06-19,,36.0,405,15,15.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0030,Empresa Corporativa CLI_0030,Comercio al por Mayor y Menor,122,12,2024-10-23,2025-10-06,27.0,27.0,296,20,9.272727272727273,115.68627450980391,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0031,Empresa Corporativa CLI_0031,Industria Manufacturera Alimenticia y Gastronomía,1759,4,2023-12-12,2025-12-11,267.0,267.0,230,564,398.3333333333333,41.58995815899582,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0032,Empresa Corporativa CLI_0032,Otras Actividades de Servicios (Comunidades y Edificios),109,1,2023-12-20,2023-12-20,,36.0,952,109,109.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0033,Empresa Corporativa CLI_0033,Otras Actividades de Servicios (Comunidades y Edificios),53,3,2023-10-12,2024-01-15,47.5,47.5,926,2,25.5,-92.15686274509804,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0034,Empresa Corporativa CLI_0034,Otras Actividades de Servicios (Comunidades y Edificios),49,1,2025-03-27,2025-03-27,,36.0,489,49,49.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0035,Empresa Corporativa CLI_0035,Industria Manufacturera (No Alimenticia),83,7,2023-09-28,2026-07-15,32.0,32.0,14,17,11.0,54.54545454545454,Activo y Saludable,No aplica
+CLI_0036,Empresa Corporativa CLI_0036,Otras Actividades de Servicios (Comunidades y Edificios),19,2,2024-03-26,2025-04-11,381.0,381.0,474,2,17.0,-88.23529411764706,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0037,Empresa Corporativa CLI_0037,Construcción,54,2,2025-12-10,2026-05-25,166.0,166.0,65,16,38.0,-57.89473684210527,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0038,Empresa Corporativa CLI_0038,Construcción,30,5,2023-12-06,2024-09-10,84.5,84.5,687,1,7.25,-86.20689655172413,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0039,Empresa Corporativa CLI_0039,Otras Actividades de Servicios (Comunidades y Edificios),18,2,2024-01-18,2025-02-21,400.0,400.0,523,5,13.0,-61.53846153846154,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0040,Empresa Corporativa CLI_0040,Comercio al por Mayor y Menor,30,2,2023-11-27,2024-03-01,95.0,95.0,880,15,15.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0041,Empresa Corporativa CLI_0041,Construcción,157,6,2023-12-12,2026-02-17,172.0,172.0,162,7,30.0,-76.66666666666667,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0042,Empresa Corporativa CLI_0042,"Servicios Profesionales, Técnicos y Apoyo",62,2,2024-09-02,2024-10-14,42.0,42.0,653,26,36.0,-27.77777777777778,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0043,Empresa Corporativa CLI_0043,Otras Actividades de Servicios (Comunidades y Edificios),19,2,2023-11-23,2024-08-13,264.0,264.0,715,2,17.0,-88.23529411764706,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0044,Empresa Corporativa CLI_0044,Otras Actividades de Servicios (Comunidades y Edificios),25,2,2023-10-03,2024-01-08,97.0,97.0,933,3,22.0,-86.36363636363636,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0045,Empresa Corporativa CLI_0045,Industria Manufacturera Alimenticia y Gastronomía,12,2,2025-08-12,2025-09-02,21.0,21.0,330,1,11.0,-90.9090909090909,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0046,Empresa Corporativa CLI_0046,Comercio al por Mayor y Menor,236,2,2025-01-10,2025-09-25,258.0,258.0,307,118,118.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0047,Empresa Corporativa CLI_0047,Actividades de Atención de la Salud,9,1,2023-11-07,2023-11-07,,52.0,995,9,9.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0048,Empresa Corporativa CLI_0048,"Organizaciones Sociales, Recreación y Deportes",77,2,2023-10-25,2024-05-27,215.0,215.0,793,16,61.0,-73.77049180327869,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0049,Empresa Corporativa CLI_0049,Comercio al por Mayor y Menor,30,2,2025-04-08,2025-04-08,0.0,0.0,477,29,1.0,2800.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0050,Empresa Corporativa CLI_0050,Otras Actividades de Servicios (Comunidades y Edificios),73,6,2024-07-26,2025-08-19,61.0,61.0,344,2,14.2,-85.91549295774648,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0051,Empresa Corporativa CLI_0051,Otras Actividades de Servicios (Comunidades y Edificios),4,2,2025-05-19,2025-07-29,71.0,71.0,365,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0052,Empresa Corporativa CLI_0052,Otras Actividades de Servicios Generales,590,1,2024-11-04,2024-11-04,,47.5,632,590,590.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0053,Empresa Corporativa CLI_0053,Otras Actividades de Servicios Generales,24,1,2024-11-11,2024-11-11,,47.5,625,24,24.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0054,Empresa Corporativa CLI_0054,Otras Actividades de Servicios (Comunidades y Edificios),105,3,2025-07-14,2025-09-11,29.5,29.5,321,7,49.0,-85.71428571428571,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0055,Empresa Corporativa CLI_0055,Otras Actividades de Servicios (Comunidades y Edificios),26,2,2023-12-07,2024-01-30,54.0,54.0,911,3,23.0,-86.95652173913044,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0056,Empresa Corporativa CLI_0056,Otras Actividades de Servicios Generales,38,1,2023-10-02,2023-10-02,,47.5,1031,38,38.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0057,Empresa Corporativa CLI_0057,Industria Manufacturera Alimenticia y Gastronomía,73,3,2023-09-01,2024-11-19,222.5,222.5,617,1,36.0,-97.22222222222221,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0058,Empresa Corporativa CLI_0058,Otras Actividades de Servicios (Comunidades y Edificios),514,8,2024-08-09,2026-06-12,48.0,48.0,47,48,66.57142857142857,-27.896995708154503,Activo y Saludable,No aplica
+CLI_0059,Empresa Corporativa CLI_0059,Otras Actividades de Servicios Generales,14,1,2024-10-07,2024-10-07,,47.5,660,14,14.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0060,Empresa Corporativa CLI_0060,Otras Actividades de Servicios Generales,24,1,2024-09-12,2024-09-12,,47.5,685,24,24.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0061,Empresa Corporativa CLI_0061,"Servicios Profesionales, Técnicos y Apoyo",14,1,2023-09-13,2023-09-13,,37.0,1050,14,14.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0062,Empresa Corporativa CLI_0062,Otras Actividades de Servicios Generales,84,1,2025-03-19,2025-03-19,,47.5,497,84,84.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0063,Empresa Corporativa CLI_0063,Otras Actividades de Servicios (Comunidades y Edificios),29,1,2025-04-24,2025-04-24,,36.0,461,29,29.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0064,Empresa Corporativa CLI_0064,Otras Actividades de Servicios Generales,18,1,2023-12-14,2023-12-14,,47.5,958,18,18.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0065,Empresa Corporativa CLI_0065,Comercio al por Mayor y Menor,107,2,2023-11-22,2024-05-19,179.0,179.0,801,29,78.0,-62.82051282051282,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0066,Empresa Corporativa CLI_0066,Otras Actividades de Servicios (Comunidades y Edificios),87,5,2024-06-02,2026-07-13,153.0,153.0,16,21,16.5,27.27272727272727,Activo y Saludable,No aplica
+CLI_0067,Empresa Corporativa CLI_0067,Administración Pública y Defensa,14,2,2023-10-19,2023-10-19,0.0,0.0,1014,7,7.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0068,Empresa Corporativa CLI_0068,Otras Actividades de Servicios (Comunidades y Edificios),24,1,2023-08-04,2023-08-04,,36.0,1090,24,24.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0069,Empresa Corporativa CLI_0069,Otras Actividades de Servicios Generales,150,1,2023-12-19,2023-12-19,,47.5,953,150,150.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0070,Empresa Corporativa CLI_0070,Otras Actividades de Servicios (Comunidades y Edificios),220,9,2024-06-17,2026-05-11,23.0,23.0,79,49,21.375,129.23976608187135,Activo y Saludable,No aplica
+CLI_0071,Empresa Corporativa CLI_0071,Otras Actividades de Servicios (Comunidades y Edificios),160,6,2024-12-02,2026-07-10,143.0,143.0,19,3,31.4,-90.44585987261146,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0072,Empresa Corporativa CLI_0072,"Organizaciones Sociales, Recreación y Deportes",54,3,2025-04-30,2025-07-21,41.0,41.0,373,2,26.0,-92.3076923076923,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0073,Empresa Corporativa CLI_0073,Enseñanza / Educación,43,3,2025-07-31,2026-04-27,135.0,135.0,93,24,9.5,152.63157894736844,Activo y Saludable,No aplica
+CLI_0074,Empresa Corporativa CLI_0074,Actividades Inmobiliarias y Financieras,613,3,2024-01-11,2025-11-04,331.5,331.5,267,201,206.0,-2.4271844660194173,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0075,Empresa Corporativa CLI_0075,Otras Actividades de Servicios Generales,20,2,2024-05-13,2024-05-23,10.0,10.0,797,7,13.0,-46.15384615384615,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0076,Empresa Corporativa CLI_0076,Comercio al por Mayor y Menor,1,1,2025-03-18,2025-03-18,,28.0,498,1,1.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0077,Empresa Corporativa CLI_0077,Otras Actividades de Servicios (Comunidades y Edificios),153,6,2024-12-10,2025-05-05,20.0,20.0,450,12,28.2,-57.44680851063829,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0078,Empresa Corporativa CLI_0078,Otras Actividades de Servicios (Comunidades y Edificios),177,4,2024-01-31,2024-10-10,98.0,98.0,657,25,50.666666666666664,-50.6578947368421,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0079,Empresa Corporativa CLI_0079,Otras Actividades de Servicios (Comunidades y Edificios),61,4,2024-08-05,2025-05-29,51.0,51.0,426,10,17.0,-41.17647058823529,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0080,Empresa Corporativa CLI_0080,Transporte y Almacenamiento,197,4,2023-08-02,2025-11-11,251.0,251.0,260,72,41.666666666666664,72.80000000000001,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0081,Empresa Corporativa CLI_0081,Otras Actividades de Servicios (Comunidades y Edificios),864,9,2024-03-21,2025-02-10,33.0,33.0,534,96,96.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0082,Empresa Corporativa CLI_0082,"Organizaciones Sociales, Recreación y Deportes",551,21,2023-09-07,2026-06-22,17.0,17.0,37,83,23.4,254.70085470085473,Activo y Saludable,No aplica
+CLI_0083,Empresa Corporativa CLI_0083,Otras Actividades de Servicios Generales,27,2,2023-10-20,2025-01-23,461.0,461.0,552,12,15.0,-20.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0084,Empresa Corporativa CLI_0084,Otras Actividades de Servicios (Comunidades y Edificios),53,1,2024-07-23,2024-07-23,,36.0,736,53,53.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0085,Empresa Corporativa CLI_0085,Industria Manufacturera Alimenticia y Gastronomía,389,7,2023-10-19,2026-07-24,77.5,77.5,5,1,64.66666666666667,-98.4536082474227,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0086,Empresa Corporativa CLI_0086,Otras Actividades de Servicios (Comunidades y Edificios),12,2,2023-08-14,2023-08-14,0.0,0.0,1080,4,8.0,-50.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0087,Empresa Corporativa CLI_0087,Construcción,202,13,2023-09-04,2025-11-11,36.0,36.0,260,19,15.25,24.59016393442623,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0088,Empresa Corporativa CLI_0088,Construcción,154,3,2024-06-05,2024-09-11,49.0,49.0,686,2,76.0,-97.36842105263158,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0089,Empresa Corporativa CLI_0089,Otras Actividades de Servicios (Comunidades y Edificios),31,1,2025-01-24,2025-01-24,,36.0,551,31,31.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0090,Empresa Corporativa CLI_0090,"Servicios Profesionales, Técnicos y Apoyo",125,4,2024-02-13,2024-05-13,6.0,6.0,807,31,31.333333333333332,-1.063829787234039,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0091,Empresa Corporativa CLI_0091,Otras Actividades de Servicios (Comunidades y Edificios),29,1,2025-10-09,2025-10-09,,36.0,293,29,29.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0092,Empresa Corporativa CLI_0092,"Organizaciones Sociales, Recreación y Deportes",106,4,2024-10-17,2025-03-27,57.0,57.0,489,44,20.666666666666668,112.9032258064516,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0093,Empresa Corporativa CLI_0093,Enseñanza / Educación,4,1,2024-03-11,2024-03-11,,43.0,870,4,4.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0094,Empresa Corporativa CLI_0094,No Informado / Particular,43,2,2026-05-04,2026-07-14,71.0,71.0,15,2,41.0,-95.1219512195122,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0095,Empresa Corporativa CLI_0095,Otras Actividades de Servicios (Comunidades y Edificios),58,3,2024-05-15,2025-03-28,158.5,158.5,488,4,27.0,-85.18518518518519,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0096,Empresa Corporativa CLI_0096,Otras Actividades de Servicios (Comunidades y Edificios),243,3,2024-02-13,2024-05-07,42.0,42.0,813,33,105.0,-68.57142857142857,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0097,Empresa Corporativa CLI_0097,Actividades Inmobiliarias y Financieras,2514,15,2023-11-08,2026-06-22,64.5,64.5,37,10,178.85714285714286,-94.40894568690096,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0098,Empresa Corporativa CLI_0098,Otras Actividades de Servicios Generales,72,1,2023-10-04,2023-10-04,,47.5,1029,72,72.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0099,Empresa Corporativa CLI_0099,"Servicios Profesionales, Técnicos y Apoyo",114,2,2024-08-21,2024-08-23,2.0,2.0,705,5,109.0,-95.41284403669725,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0100,Empresa Corporativa CLI_0100,Otras Actividades de Servicios Generales,154,1,2025-02-18,2025-02-18,,47.5,526,154,154.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0101,Empresa Corporativa CLI_0101,"Servicios Profesionales, Técnicos y Apoyo",177,3,2025-06-17,2026-02-02,115.0,115.0,177,74,51.5,43.689320388349515,Activo y Saludable,No aplica
+CLI_0102,Empresa Corporativa CLI_0102,Transporte y Almacenamiento,150,5,2024-10-09,2025-11-11,91.5,91.5,260,4,36.5,-89.04109589041096,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0103,Empresa Corporativa CLI_0103,Industria Manufacturera (No Alimenticia),12,3,2024-10-23,2025-06-25,122.5,122.5,399,4,4.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0104,Empresa Corporativa CLI_0104,Industria Manufacturera Alimenticia y Gastronomía,110,6,2024-07-30,2025-03-24,40.0,40.0,492,5,21.0,-76.19047619047619,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0105,Empresa Corporativa CLI_0105,Industria Manufacturera (No Alimenticia),23,2,2023-10-24,2023-11-16,23.0,23.0,986,1,22.0,-95.45454545454545,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0106,Empresa Corporativa CLI_0106,Otras Actividades de Servicios (Comunidades y Edificios),9,1,2023-12-06,2023-12-06,,36.0,966,9,9.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0107,Empresa Corporativa CLI_0107,Otras Actividades de Servicios (Comunidades y Edificios),94,1,2024-03-26,2024-03-26,,36.0,855,94,94.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0108,Empresa Corporativa CLI_0108,Otras Actividades de Servicios (Comunidades y Edificios),29,1,2025-09-24,2025-09-24,,36.0,308,29,29.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0109,Empresa Corporativa CLI_0109,Otras Actividades de Servicios (Comunidades y Edificios),164,7,2024-06-18,2025-10-21,39.0,39.0,281,2,27.0,-92.5925925925926,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0110,Empresa Corporativa CLI_0110,"Servicios Profesionales, Técnicos y Apoyo",40,2,2023-10-07,2024-05-27,233.0,233.0,793,19,21.0,-9.523809523809524,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0111,Empresa Corporativa CLI_0111,"Servicios Profesionales, Técnicos y Apoyo",676,4,2023-11-06,2026-06-12,29.0,29.0,47,1,225.0,-99.55555555555556,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0112,Empresa Corporativa CLI_0112,Industria Manufacturera Alimenticia y Gastronomía,30,2,2025-03-31,2025-04-28,28.0,28.0,457,15,15.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0113,Empresa Corporativa CLI_0113,Otras Actividades de Servicios Generales,75,1,2024-02-28,2024-02-28,,47.5,882,75,75.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0114,Empresa Corporativa CLI_0114,Construcción,440,11,2023-10-02,2026-02-22,62.0,62.0,157,5,43.5,-88.50574712643679,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0115,Empresa Corporativa CLI_0115,Transporte y Almacenamiento,44,7,2024-11-26,2025-01-22,5.0,5.0,553,6,6.333333333333333,-5.263157894736838,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0116,Empresa Corporativa CLI_0116,Otras Actividades de Servicios Generales,1,1,2026-04-28,2026-04-28,,47.5,92,1,1.0,0.0,Ocasional / En Observación,No aplica
+CLI_0117,Empresa Corporativa CLI_0117,Otras Actividades de Servicios Generales,6,1,2024-06-10,2024-06-10,,47.5,779,6,6.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0118,Empresa Corporativa CLI_0118,Otras Actividades de Servicios Generales,6,1,2024-10-25,2024-10-25,,47.5,642,6,6.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0119,Empresa Corporativa CLI_0119,Transporte y Almacenamiento,174,3,2024-03-22,2026-05-18,393.5,393.5,72,10,82.0,-87.8048780487805,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0120,Empresa Corporativa CLI_0120,Industria Manufacturera Alimenticia y Gastronomía,43,2,2023-08-17,2024-08-16,365.0,365.0,712,19,24.0,-20.833333333333336,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0121,Empresa Corporativa CLI_0121,Comercio al por Mayor y Menor,621,26,2023-10-24,2026-03-05,18.0,18.0,146,13,24.32,-46.54605263157895,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0122,Empresa Corporativa CLI_0122,Industria Manufacturera (No Alimenticia),84,3,2023-12-11,2024-11-18,171.5,171.5,618,37,23.5,57.446808510638306,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0123,Empresa Corporativa CLI_0123,Otras Actividades de Servicios (Comunidades y Edificios),83,1,2024-05-19,2024-05-19,,36.0,801,83,83.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0124,Empresa Corporativa CLI_0124,Enseñanza / Educación,22,1,2024-06-19,2024-06-19,,43.0,770,22,22.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0125,Empresa Corporativa CLI_0125,"Organizaciones Sociales, Recreación y Deportes",69,4,2025-03-19,2025-11-28,34.0,34.0,243,18,17.0,5.88235294117647,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0126,Empresa Corporativa CLI_0126,Comercio al por Mayor y Menor,379,5,2025-02-10,2026-02-02,61.5,61.5,177,2,94.25,-97.87798408488064,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0127,Empresa Corporativa CLI_0127,Otras Actividades de Servicios Generales,12,1,2024-09-03,2024-09-03,,47.5,694,12,12.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0128,Empresa Corporativa CLI_0128,"Servicios Profesionales, Técnicos y Apoyo",303,3,2024-04-04,2024-05-28,27.0,27.0,792,40,131.5,-69.58174904942965,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0129,Empresa Corporativa CLI_0129,Enseñanza / Educación,14,1,2024-01-16,2024-01-16,,43.0,925,14,14.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0130,Empresa Corporativa CLI_0130,"Servicios Profesionales, Técnicos y Apoyo",8,3,2023-10-20,2023-12-29,35.0,35.0,943,2,3.0,-33.33333333333333,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0131,Empresa Corporativa CLI_0131,Otras Actividades de Servicios Generales,118,1,2024-11-15,2024-11-15,,47.5,621,118,118.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0132,Empresa Corporativa CLI_0132,Industria Manufacturera (No Alimenticia),60,6,2023-11-06,2024-11-22,29.0,29.0,614,2,11.6,-82.75862068965517,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0133,Empresa Corporativa CLI_0133,Administración Pública y Defensa,127,3,2024-12-11,2025-04-08,59.0,59.0,477,13,57.0,-77.19298245614034,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0134,Empresa Corporativa CLI_0134,"Servicios Profesionales, Técnicos y Apoyo",163,6,2023-11-15,2025-04-21,117.0,117.0,464,17,29.2,-41.78082191780822,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0135,Empresa Corporativa CLI_0135,"Servicios Profesionales, Técnicos y Apoyo",212,4,2023-11-27,2025-07-07,22.0,22.0,387,77,45.0,71.11111111111111,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0136,Empresa Corporativa CLI_0136,Construcción,48,1,2025-08-04,2025-08-04,,30.0,359,48,48.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0137,Empresa Corporativa CLI_0137,"Servicios Profesionales, Técnicos y Apoyo",351,3,2023-10-18,2025-10-09,361.0,361.0,293,80,135.5,-40.959409594095945,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0138,Empresa Corporativa CLI_0138,Otras Actividades de Servicios (Comunidades y Edificios),45,3,2024-04-23,2024-06-19,28.5,28.5,770,7,19.0,-63.1578947368421,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0139,Empresa Corporativa CLI_0139,Enseñanza / Educación,4,2,2024-09-11,2024-09-30,19.0,19.0,667,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0140,Empresa Corporativa CLI_0140,"Servicios Profesionales, Técnicos y Apoyo",36,4,2023-12-14,2025-05-19,69.0,69.0,436,3,11.0,-72.72727272727273,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0141,Empresa Corporativa CLI_0141,Enseñanza / Educación,846,5,2023-08-24,2024-07-23,79.0,79.0,736,29,204.25,-85.8017135862913,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0142,Empresa Corporativa CLI_0142,Comercio al por Mayor y Menor,167,4,2023-09-20,2024-05-29,59.0,59.0,791,19,49.333333333333336,-61.48648648648649,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0143,Empresa Corporativa CLI_0143,Construcción,141,1,2024-11-06,2024-11-06,,30.0,630,141,141.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0144,Empresa Corporativa CLI_0144,Actividades Inmobiliarias y Financieras,347,5,2024-02-26,2025-04-07,41.0,41.0,478,2,86.25,-97.68115942028986,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0145,Empresa Corporativa CLI_0145,"Organizaciones Sociales, Recreación y Deportes",45,5,2024-05-27,2024-07-24,8.5,8.5,735,1,11.0,-90.9090909090909,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0146,Empresa Corporativa CLI_0146,Otras Actividades de Servicios Generales,59,1,2024-04-08,2024-04-08,,47.5,842,59,59.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0147,Empresa Corporativa CLI_0147,Enseñanza / Educación,176,1,2024-04-04,2024-04-04,,43.0,846,176,176.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0148,Empresa Corporativa CLI_0148,Transporte y Almacenamiento,85,2,2024-01-19,2024-01-24,5.0,5.0,917,63,22.0,186.36363636363635,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0149,Empresa Corporativa CLI_0149,Otras Actividades de Servicios (Comunidades y Edificios),10,1,2025-05-07,2025-05-07,,36.0,448,10,10.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0150,Empresa Corporativa CLI_0150,Construcción,14,1,2024-10-17,2024-10-17,,30.0,650,14,14.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0151,Empresa Corporativa CLI_0151,Otras Actividades de Servicios Generales,64,3,2025-09-11,2026-07-28,160.0,160.0,1,5,29.5,-83.05084745762711,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0152,Empresa Corporativa CLI_0152,Industria Manufacturera Alimenticia y Gastronomía,72,6,2025-03-19,2026-06-26,72.0,72.0,33,10,12.4,-19.35483870967742,Activo y Saludable,No aplica
+CLI_0153,Empresa Corporativa CLI_0153,Otras Actividades de Servicios Generales,15,1,2024-02-29,2024-02-29,,47.5,881,15,15.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0154,Empresa Corporativa CLI_0154,Otras Actividades de Servicios Generales,39,1,2024-04-26,2024-04-26,,47.5,824,39,39.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0155,Empresa Corporativa CLI_0155,Comercio al por Mayor y Menor,118,1,2023-12-12,2023-12-12,,28.0,960,118,118.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0156,Empresa Corporativa CLI_0156,Otras Actividades de Servicios (Comunidades y Edificios),66,3,2025-01-14,2025-02-13,15.0,15.0,531,28,19.0,47.368421052631575,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0157,Empresa Corporativa CLI_0157,Otras Actividades de Servicios (Comunidades y Edificios),35,2,2024-07-22,2024-10-10,80.0,80.0,657,4,31.0,-87.09677419354838,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0158,Empresa Corporativa CLI_0158,Comercio al por Mayor y Menor,44,2,2023-11-08,2023-11-30,22.0,22.0,972,21,23.0,-8.695652173913043,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0159,Empresa Corporativa CLI_0159,"Servicios Profesionales, Técnicos y Apoyo",42,4,2023-12-13,2024-07-08,28.0,28.0,751,1,13.666666666666666,-92.6829268292683,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0160,Empresa Corporativa CLI_0160,Administración Pública y Defensa,135,9,2023-07-25,2025-08-11,22.5,22.5,352,5,16.25,-69.23076923076923,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0161,Empresa Corporativa CLI_0161,Otras Actividades de Servicios (Comunidades y Edificios),81,5,2023-10-30,2024-06-10,57.5,57.5,779,2,19.75,-89.87341772151899,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0162,Empresa Corporativa CLI_0162,Otras Actividades de Servicios Generales,1,1,2023-12-27,2023-12-27,,47.5,945,1,1.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0163,Empresa Corporativa CLI_0163,Actividades de Atención de la Salud,329,9,2024-05-16,2026-04-08,57.0,57.0,112,85,30.5,178.68852459016392,Activo y Saludable,No aplica
+CLI_0164,Empresa Corporativa CLI_0164,Transporte y Almacenamiento,40,1,2026-01-13,2026-01-13,,37.0,197,40,40.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0165,Empresa Corporativa CLI_0165,"Servicios Profesionales, Técnicos y Apoyo",35,3,2026-02-26,2026-07-08,66.0,66.0,21,4,15.5,-74.19354838709677,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0166,Empresa Corporativa CLI_0166,Otras Actividades de Servicios Generales,14,1,2023-11-30,2023-11-30,,47.5,972,14,14.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0167,Empresa Corporativa CLI_0167,Otras Actividades de Servicios (Comunidades y Edificios),59,5,2024-07-04,2025-03-05,24.5,24.5,511,22,9.25,137.83783783783784,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0168,Empresa Corporativa CLI_0168,Otras Actividades de Servicios (Comunidades y Edificios),53,3,2024-10-17,2024-12-30,37.0,37.0,576,23,15.0,53.333333333333336,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0169,Empresa Corporativa CLI_0169,Comercio al por Mayor y Menor,47,3,2024-03-22,2024-04-09,9.0,9.0,841,2,22.5,-91.11111111111111,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0170,Empresa Corporativa CLI_0170,"Organizaciones Sociales, Recreación y Deportes",91,2,2024-04-01,2024-04-22,21.0,21.0,828,72,19.0,278.9473684210526,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0171,Empresa Corporativa CLI_0171,Comercio al por Mayor y Menor,218,8,2023-11-08,2025-09-10,67.0,67.0,322,40,25.428571428571427,57.30337078651686,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0172,Empresa Corporativa CLI_0172,Comercio al por Mayor y Menor,19,2,2024-06-17,2025-09-30,470.0,470.0,302,1,18.0,-94.44444444444444,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0173,Empresa Corporativa CLI_0173,Transporte y Almacenamiento,40,3,2024-05-19,2024-10-16,75.0,75.0,651,2,19.0,-89.47368421052632,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0174,Empresa Corporativa CLI_0174,Otras Actividades de Servicios Generales,59,1,2023-09-04,2023-09-04,,47.5,1059,59,59.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0175,Empresa Corporativa CLI_0175,Otras Actividades de Servicios Generales,41,1,2024-01-31,2024-01-31,,47.5,910,41,41.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0176,Empresa Corporativa CLI_0176,Actividades Inmobiliarias y Financieras,71,2,2025-05-05,2025-05-14,9.0,9.0,441,2,69.0,-97.10144927536231,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0177,Empresa Corporativa CLI_0177,Transporte y Almacenamiento,2831,21,2023-10-06,2026-06-22,29.5,29.5,37,10,141.05,-92.91031549096064,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0178,Empresa Corporativa CLI_0178,Enseñanza / Educación,49,1,2024-10-25,2024-10-25,,43.0,642,49,49.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0179,Empresa Corporativa CLI_0179,Otras Actividades de Servicios Generales,62,1,2024-08-12,2024-08-12,,47.5,716,62,62.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0180,Empresa Corporativa CLI_0180,Comercio al por Mayor y Menor,73,1,2023-10-30,2023-10-30,,28.0,1003,73,73.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0181,Empresa Corporativa CLI_0181,Comercio al por Mayor y Menor,60,6,2023-11-27,2026-03-30,65.0,65.0,121,2,11.6,-82.75862068965517,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0182,Empresa Corporativa CLI_0182,Industria Manufacturera Alimenticia y Gastronomía,110,3,2024-05-10,2026-03-31,345.0,345.0,120,23,43.5,-47.12643678160919,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0183,Empresa Corporativa CLI_0183,Otras Actividades de Servicios Generales,4,1,2023-12-01,2023-12-01,,47.5,971,4,4.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0184,Empresa Corporativa CLI_0184,"Organizaciones Sociales, Recreación y Deportes",268,11,2023-11-14,2024-12-31,0.0,0.0,575,49,21.9,123.74429223744295,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0185,Empresa Corporativa CLI_0185,Otras Actividades de Servicios Generales,30,1,2023-08-28,2023-08-28,,47.5,1066,30,30.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0186,Empresa Corporativa CLI_0186,Comercio al por Mayor y Menor,132,3,2024-06-05,2025-12-01,272.0,272.0,240,73,29.5,147.45762711864407,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0187,Empresa Corporativa CLI_0187,Actividades de Atención de la Salud,185,7,2023-08-28,2026-04-08,185.0,185.0,112,2,30.5,-93.44262295081968,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0188,Empresa Corporativa CLI_0188,Enseñanza / Educación,413,12,2024-01-23,2026-07-09,50.0,50.0,20,14,36.27272727272727,-61.40350877192983,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0189,Empresa Corporativa CLI_0189,Actividades Inmobiliarias y Financieras,13,2,2025-02-17,2025-03-05,16.0,16.0,511,1,12.0,-91.66666666666666,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0190,Empresa Corporativa CLI_0190,Industria Manufacturera Alimenticia y Gastronomía,2,1,2024-08-26,2024-08-26,,21.5,702,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0191,Empresa Corporativa CLI_0191,Actividades de Atención de la Salud,171,5,2023-10-10,2024-11-19,72.0,72.0,617,5,41.5,-87.95180722891565,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0192,Empresa Corporativa CLI_0192,Otras Actividades de Servicios (Comunidades y Edificios),54,3,2023-10-30,2025-05-15,281.5,281.5,440,10,22.0,-54.54545454545454,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0193,Empresa Corporativa CLI_0193,Otras Actividades de Servicios (Comunidades y Edificios),24,2,2024-10-18,2024-10-18,0.0,0.0,649,8,16.0,-50.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0194,Empresa Corporativa CLI_0194,Otras Actividades de Servicios (Comunidades y Edificios),54,1,2024-05-30,2024-05-30,,36.0,790,54,54.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0195,Empresa Corporativa CLI_0195,Otras Actividades de Servicios Generales,92,1,2024-11-21,2024-11-21,,47.5,615,92,92.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0196,Empresa Corporativa CLI_0196,Administración Pública y Defensa,609,12,2024-05-14,2024-10-16,9.0,9.0,651,2,55.18181818181818,-96.37561779242174,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0197,Empresa Corporativa CLI_0197,Otras Actividades de Servicios Generales,2,1,2024-07-18,2024-07-18,,47.5,741,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0198,Empresa Corporativa CLI_0198,Otras Actividades de Servicios (Comunidades y Edificios),80,3,2023-08-14,2024-02-09,89.5,89.5,901,8,36.0,-77.77777777777779,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0199,Empresa Corporativa CLI_0199,Otras Actividades de Servicios Generales,84,5,2025-11-07,2026-01-13,13.0,13.0,197,4,20.0,-80.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0200,Empresa Corporativa CLI_0200,Actividades de Atención de la Salud,23,2,2024-02-12,2024-03-15,32.0,32.0,866,3,20.0,-85.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0201,Empresa Corporativa CLI_0201,"Servicios Profesionales, Técnicos y Apoyo",30,2,2024-10-24,2024-12-12,49.0,49.0,594,15,15.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0202,Empresa Corporativa CLI_0202,Otras Actividades de Servicios (Comunidades y Edificios),2759,35,2023-08-03,2026-07-23,12.0,12.0,6,4,81.02941176470588,-95.06352087114338,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0203,Empresa Corporativa CLI_0203,Otras Actividades de Servicios Generales,15,1,2025-01-29,2025-01-29,,47.5,546,15,15.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0204,Empresa Corporativa CLI_0204,"Organizaciones Sociales, Recreación y Deportes",70,2,2024-07-11,2024-07-22,11.0,11.0,737,35,35.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0205,Empresa Corporativa CLI_0205,Comercio al por Mayor y Menor,395,3,2023-08-31,2024-09-17,191.5,191.5,680,21,187.0,-88.77005347593582,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0206,Empresa Corporativa CLI_0206,Otras Actividades de Servicios Generales,32,1,2023-08-22,2023-08-22,,47.5,1072,32,32.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0207,Empresa Corporativa CLI_0207,Comercio al por Mayor y Menor,154,1,2024-01-29,2024-01-29,,28.0,912,154,154.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0208,Empresa Corporativa CLI_0208,Otras Actividades de Servicios Generales,37,1,2025-01-03,2025-01-03,,47.5,572,37,37.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0209,Empresa Corporativa CLI_0209,Actividades Inmobiliarias y Financieras,100,3,2024-01-11,2025-11-27,343.0,343.0,244,33,33.5,-1.4925373134328357,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0210,Empresa Corporativa CLI_0210,Otras Actividades de Servicios Generales,24,1,2024-12-19,2024-12-19,,47.5,587,24,24.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0211,Empresa Corporativa CLI_0211,Otras Actividades de Servicios Generales,8,1,2024-07-30,2024-07-30,,47.5,729,8,8.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0212,Empresa Corporativa CLI_0212,"Servicios Profesionales, Técnicos y Apoyo",272,5,2023-09-27,2025-10-24,179.0,179.0,278,83,47.25,75.66137566137566,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0213,Empresa Corporativa CLI_0213,Construcción,2,1,2024-02-02,2024-02-02,,30.0,908,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0214,Empresa Corporativa CLI_0214,Industria Manufacturera Alimenticia y Gastronomía,89,3,2024-02-05,2024-03-21,22.5,22.5,860,4,42.5,-90.58823529411765,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0215,Empresa Corporativa CLI_0215,Otras Actividades de Servicios (Comunidades y Edificios),23,1,2023-11-03,2023-11-03,,36.0,999,23,23.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0216,Empresa Corporativa CLI_0216,Otras Actividades de Servicios Generales,75,1,2024-08-22,2024-08-22,,47.5,706,75,75.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0217,Empresa Corporativa CLI_0217,Otras Actividades de Servicios (Comunidades y Edificios),19,1,2024-05-22,2024-05-22,,36.0,798,19,19.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0218,Empresa Corporativa CLI_0218,Otras Actividades de Servicios (Comunidades y Edificios),34,1,2026-05-04,2026-05-04,,36.0,86,34,34.0,0.0,Activo y Saludable,No aplica
+CLI_0219,Empresa Corporativa CLI_0219,"Servicios Profesionales, Técnicos y Apoyo",14,2,2024-03-28,2024-04-22,25.0,25.0,828,4,10.0,-60.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0220,Empresa Corporativa CLI_0220,Otras Actividades de Servicios Generales,4,1,2024-02-21,2024-02-21,,47.5,889,4,4.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0221,Empresa Corporativa CLI_0221,Construcción,1085,3,2023-09-01,2026-01-12,432.0,432.0,198,141,472.0,-70.12711864406779,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0222,Empresa Corporativa CLI_0222,Comercio al por Mayor y Menor,265,8,2025-11-06,2026-07-13,21.0,21.0,16,8,36.714285714285715,-78.21011673151752,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0223,Empresa Corporativa CLI_0223,Otras Actividades de Servicios Generales,10,1,2024-10-25,2024-10-25,,47.5,642,10,10.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0224,Empresa Corporativa CLI_0224,Otras Actividades de Servicios (Comunidades y Edificios),83,4,2024-10-22,2026-01-28,121.0,121.0,182,25,19.333333333333332,29.310344827586217,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0225,Empresa Corporativa CLI_0225,Otras Actividades de Servicios Generales,2,1,2024-03-28,2024-03-28,,47.5,853,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0226,Empresa Corporativa CLI_0226,Otras Actividades de Servicios (Comunidades y Edificios),272,9,2023-09-01,2024-07-09,30.5,30.5,750,6,33.25,-81.95488721804512,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0227,Empresa Corporativa CLI_0227,Comercio al por Mayor y Menor,22,1,2023-12-06,2023-12-06,,28.0,966,22,22.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0228,Empresa Corporativa CLI_0228,Actividades Inmobiliarias y Financieras,216,5,2023-10-25,2025-12-02,181.5,181.5,239,48,42.0,14.285714285714285,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0229,Empresa Corporativa CLI_0229,Comercio al por Mayor y Menor,326,7,2023-08-23,2024-08-08,52.0,52.0,720,27,49.833333333333336,-45.81939799331104,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0230,Empresa Corporativa CLI_0230,Industria Manufacturera Alimenticia y Gastronomía,48,4,2023-09-28,2026-07-24,23.0,23.0,5,1,15.666666666666666,-93.61702127659575,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0231,Empresa Corporativa CLI_0231,Otras Actividades de Servicios Generales,15,1,2025-01-06,2025-01-06,,47.5,569,15,15.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0232,Empresa Corporativa CLI_0232,Construcción,20,2,2024-06-06,2024-07-08,32.0,32.0,751,4,16.0,-75.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0233,Empresa Corporativa CLI_0233,Construcción,40,3,2023-10-05,2023-12-13,34.5,34.5,959,4,18.0,-77.77777777777779,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0234,Empresa Corporativa CLI_0234,Otras Actividades de Servicios Generales,6,1,2025-12-15,2025-12-15,,47.5,226,6,6.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0235,Empresa Corporativa CLI_0235,Comercio al por Mayor y Menor,92,4,2024-05-02,2024-10-29,43.0,43.0,638,4,29.333333333333332,-86.36363636363636,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0236,Empresa Corporativa CLI_0236,Actividades Inmobiliarias y Financieras,45,2,2025-05-19,2025-11-26,191.0,191.0,245,40,5.0,700.0,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0237,Empresa Corporativa CLI_0237,Otras Actividades de Servicios Generales,16,1,2024-02-02,2024-02-02,,47.5,908,16,16.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0238,Empresa Corporativa CLI_0238,Otras Actividades de Servicios Generales,71,1,2024-10-23,2024-10-23,,47.5,644,71,71.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0239,Empresa Corporativa CLI_0239,Otras Actividades de Servicios (Comunidades y Edificios),72,3,2023-08-01,2024-06-18,161.0,161.0,771,38,17.0,123.52941176470588,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0240,Empresa Corporativa CLI_0240,Actividades Inmobiliarias y Financieras,4,2,2026-05-08,2026-05-11,3.0,3.0,79,3,1.0,200.0,Activo y Saludable,No aplica
+CLI_0241,Empresa Corporativa CLI_0241,Otras Actividades de Servicios (Comunidades y Edificios),68,4,2023-09-20,2025-03-05,35.0,35.0,511,1,22.333333333333332,-95.52238805970148,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0242,Empresa Corporativa CLI_0242,Minería y Extracción,17,2,2023-08-30,2023-12-13,105.0,105.0,959,1,16.0,-93.75,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0243,Empresa Corporativa CLI_0243,Transporte y Almacenamiento,285,2,2025-11-04,2026-04-06,153.0,153.0,114,188,97.0,93.81443298969072,Activo y Saludable,No aplica
+CLI_0244,Empresa Corporativa CLI_0244,No Informado / Particular,437,3,2023-11-16,2024-12-19,199.5,199.5,587,36,200.5,-82.04488778054862,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0245,Empresa Corporativa CLI_0245,Construcción,192,4,2023-08-31,2026-07-14,81.0,81.0,15,35,52.333333333333336,-33.12101910828026,Activo y Saludable,No aplica
+CLI_0246,Empresa Corporativa CLI_0246,Otras Actividades de Servicios Generales,117,1,2024-11-18,2024-11-18,,47.5,618,117,117.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0247,Empresa Corporativa CLI_0247,Enseñanza / Educación,163,2,2025-08-04,2025-09-22,49.0,49.0,310,154,9.0,1611.111111111111,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0248,Empresa Corporativa CLI_0248,Otras Actividades de Servicios Generales,25,1,2025-05-09,2025-05-09,,47.5,446,25,25.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0249,Empresa Corporativa CLI_0249,"Servicios Profesionales, Técnicos y Apoyo",28,2,2023-11-09,2023-11-09,0.0,0.0,993,4,24.0,-83.33333333333334,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0250,Empresa Corporativa CLI_0250,"Organizaciones Sociales, Recreación y Deportes",41,2,2024-01-09,2024-01-09,0.0,0.0,932,4,37.0,-89.1891891891892,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0251,Empresa Corporativa CLI_0251,Otras Actividades de Servicios Generales,10,1,2024-09-24,2024-09-24,,47.5,673,10,10.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0252,Empresa Corporativa CLI_0252,"Servicios Profesionales, Técnicos y Apoyo",4,1,2025-08-06,2025-08-06,,37.0,357,4,4.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0253,Empresa Corporativa CLI_0253,Otras Actividades de Servicios (Comunidades y Edificios),81,5,2023-09-15,2026-01-29,42.0,42.0,181,1,20.0,-95.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0254,Empresa Corporativa CLI_0254,Industria Manufacturera (No Alimenticia),312,7,2023-10-25,2026-07-15,139.0,139.0,14,50,43.666666666666664,14.503816793893137,Activo y Saludable,No aplica
+CLI_0255,Empresa Corporativa CLI_0255,"Organizaciones Sociales, Recreación y Deportes",45,3,2023-12-12,2024-01-29,24.0,24.0,912,1,22.0,-95.45454545454545,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0256,Empresa Corporativa CLI_0256,Otras Actividades de Servicios Generales,9,1,2024-03-14,2024-03-14,,47.5,867,9,9.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0257,Empresa Corporativa CLI_0257,Industria Manufacturera Alimenticia y Gastronomía,58,5,2025-03-25,2026-07-28,137.0,137.0,1,1,14.25,-92.98245614035088,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0258,Empresa Corporativa CLI_0258,Otras Actividades de Servicios Generales,7,1,2024-07-30,2024-07-30,,47.5,729,7,7.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0259,Empresa Corporativa CLI_0259,Transporte y Almacenamiento,462,12,2023-08-03,2025-07-25,43.0,43.0,369,2,41.81818181818182,-95.21739130434783,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0260,Empresa Corporativa CLI_0260,Industria Manufacturera Alimenticia y Gastronomía,18,1,2026-06-17,2026-06-17,,21.5,42,18,18.0,0.0,Activo y Saludable,No aplica
+CLI_0261,Empresa Corporativa CLI_0261,Enseñanza / Educación,728,4,2023-11-30,2024-11-29,11.0,11.0,607,97,210.33333333333334,-53.88272583201268,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0262,Empresa Corporativa CLI_0262,Otras Actividades de Servicios Generales,14,1,2024-04-11,2024-04-11,,47.5,839,14,14.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0263,Empresa Corporativa CLI_0263,Comercio al por Mayor y Menor,25,1,2023-08-28,2023-08-28,,28.0,1066,25,25.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0264,Empresa Corporativa CLI_0264,Enseñanza / Educación,35,3,2024-12-12,2025-03-26,52.0,52.0,490,4,15.5,-74.19354838709677,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0265,Empresa Corporativa CLI_0265,Otras Actividades de Servicios Generales,47,1,2024-10-29,2024-10-29,,47.5,638,47,47.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0266,Empresa Corporativa CLI_0266,Comercio al por Mayor y Menor,16,1,2025-10-28,2025-10-28,,28.0,274,16,16.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0267,Empresa Corporativa CLI_0267,Industria Manufacturera Alimenticia y Gastronomía,139,2,2024-10-10,2025-04-03,175.0,175.0,482,62,77.0,-19.480519480519483,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0268,Empresa Corporativa CLI_0268,Otras Actividades de Servicios (Comunidades y Edificios),37,1,2026-04-28,2026-04-28,,36.0,92,37,37.0,0.0,Ocasional / En Observación,No aplica
+CLI_0269,Empresa Corporativa CLI_0269,Otras Actividades de Servicios Generales,57,3,2024-11-14,2026-04-14,258.0,258.0,106,24,16.5,45.45454545454545,Activo y Saludable,No aplica
+CLI_0270,Empresa Corporativa CLI_0270,Comercio al por Mayor y Menor,41,3,2023-10-24,2025-10-24,365.5,365.5,278,16,12.5,28.000000000000004,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0271,Empresa Corporativa CLI_0271,Otras Actividades de Servicios Generales,7,1,2026-05-15,2026-05-15,,47.5,75,7,7.0,0.0,Activo y Saludable,No aplica
+CLI_0272,Empresa Corporativa CLI_0272,Otras Actividades de Servicios Generales,29,1,2024-05-14,2024-05-14,,47.5,806,29,29.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0273,Empresa Corporativa CLI_0273,Enseñanza / Educación,12,1,2023-08-02,2023-08-02,,43.0,1092,12,12.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0274,Empresa Corporativa CLI_0274,Otras Actividades de Servicios (Comunidades y Edificios),62,3,2025-12-02,2026-02-04,32.0,32.0,175,8,27.0,-70.37037037037037,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0275,Empresa Corporativa CLI_0275,Comercio al por Mayor y Menor,98,7,2023-11-08,2026-07-06,133.5,133.5,23,18,13.333333333333334,34.99999999999999,Activo y Saludable,No aplica
+CLI_0276,Empresa Corporativa CLI_0276,Otras Actividades de Servicios (Comunidades y Edificios),36,1,2023-09-05,2023-09-05,,36.0,1058,36,36.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0277,Empresa Corporativa CLI_0277,Comercio al por Mayor y Menor,48,1,2024-12-09,2024-12-09,,28.0,597,48,48.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0278,Empresa Corporativa CLI_0278,Otras Actividades de Servicios Generales,53,1,2026-02-03,2026-02-03,,47.5,176,53,53.0,0.0,Ocasional / En Observación,No aplica
+CLI_0279,Empresa Corporativa CLI_0279,Otras Actividades de Servicios (Comunidades y Edificios),67,3,2024-07-29,2024-08-29,15.5,15.5,699,7,30.0,-76.66666666666667,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0280,Empresa Corporativa CLI_0280,Comercio al por Mayor y Menor,26,1,2024-11-07,2024-11-07,,28.0,629,26,26.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0281,Empresa Corporativa CLI_0281,Industria Manufacturera (No Alimenticia),53,2,2023-11-10,2024-01-30,81.0,81.0,911,14,39.0,-64.1025641025641,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0282,Empresa Corporativa CLI_0282,Otras Actividades de Servicios Generales,14,1,2023-11-30,2023-11-30,,47.5,972,14,14.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0283,Empresa Corporativa CLI_0283,Otras Actividades de Servicios Generales,35,1,2024-08-06,2024-08-06,,47.5,722,35,35.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0284,Empresa Corporativa CLI_0284,Construcción,94,1,2026-01-15,2026-01-15,,30.0,195,94,94.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0285,Empresa Corporativa CLI_0285,Otras Actividades de Servicios (Comunidades y Edificios),71,2,2024-07-17,2024-08-22,36.0,36.0,706,6,65.0,-90.76923076923077,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0286,Empresa Corporativa CLI_0286,Otras Actividades de Servicios Generales,4,1,2023-12-01,2023-12-01,,47.5,971,4,4.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0287,Empresa Corporativa CLI_0287,Comercio al por Mayor y Menor,66,4,2025-09-02,2025-10-21,15.0,15.0,281,1,21.666666666666668,-95.38461538461539,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0288,Empresa Corporativa CLI_0288,Comercio al por Mayor y Menor,214,3,2023-08-24,2023-09-28,17.5,17.5,1035,1,106.5,-99.06103286384976,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0289,Empresa Corporativa CLI_0289,Industria Manufacturera (No Alimenticia),56,2,2023-09-21,2023-12-29,99.0,99.0,943,3,53.0,-94.33962264150944,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0290,Empresa Corporativa CLI_0290,Comercio al por Mayor y Menor,1028,43,2024-05-13,2025-06-11,0.0,0.0,413,2,24.428571428571427,-91.81286549707602,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0291,Empresa Corporativa CLI_0291,"Organizaciones Sociales, Recreación y Deportes",110,3,2024-11-13,2025-11-21,186.5,186.5,250,38,36.0,5.555555555555555,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0292,Empresa Corporativa CLI_0292,Otras Actividades de Servicios Generales,10,1,2026-05-29,2026-05-29,,47.5,61,10,10.0,0.0,Activo y Saludable,No aplica
+CLI_0293,Empresa Corporativa CLI_0293,Otras Actividades de Servicios Generales,14,1,2024-01-19,2024-01-19,,47.5,922,14,14.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0294,Empresa Corporativa CLI_0294,Otras Actividades de Servicios (Comunidades y Edificios),22,2,2025-11-04,2025-11-26,22.0,22.0,245,2,20.0,-90.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0295,Empresa Corporativa CLI_0295,Otras Actividades de Servicios Generales,2,1,2023-10-10,2023-10-10,,47.5,1023,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0296,Empresa Corporativa CLI_0296,Transporte y Almacenamiento,48,1,2025-05-15,2025-05-15,,37.0,440,48,48.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0297,Empresa Corporativa CLI_0297,Administración Pública y Defensa,93,3,2024-04-17,2026-02-12,333.0,333.0,167,2,45.5,-95.6043956043956,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0298,Empresa Corporativa CLI_0298,Otras Actividades de Servicios Generales,24,1,2023-12-29,2023-12-29,,47.5,943,24,24.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0299,Empresa Corporativa CLI_0299,Otras Actividades de Servicios (Comunidades y Edificios),6,1,2024-07-18,2024-07-18,,36.0,741,6,6.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0300,Empresa Corporativa CLI_0300,Otras Actividades de Servicios (Comunidades y Edificios),8,2,2025-10-10,2026-07-28,291.0,291.0,1,2,6.0,-66.66666666666666,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0301,Empresa Corporativa CLI_0301,Otras Actividades de Servicios Generales,24,1,2023-10-30,2023-10-30,,47.5,1003,24,24.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0302,Empresa Corporativa CLI_0302,Construcción,153,1,2023-08-17,2023-08-17,,30.0,1077,153,153.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0303,Empresa Corporativa CLI_0303,Otras Actividades de Servicios Generales,54,3,2023-08-24,2024-12-20,242.0,242.0,586,1,26.5,-96.22641509433963,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0304,Empresa Corporativa CLI_0304,Otras Actividades de Servicios Generales,51,2,2024-02-27,2024-03-28,30.0,30.0,853,2,49.0,-95.91836734693877,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0305,Empresa Corporativa CLI_0305,Enseñanza / Educación,30,2,2023-08-25,2024-09-05,377.0,377.0,692,10,20.0,-50.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0306,Empresa Corporativa CLI_0306,Construcción,35,1,2023-10-03,2023-10-03,,30.0,1030,35,35.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0307,Empresa Corporativa CLI_0307,Otras Actividades de Servicios (Comunidades y Edificios),12,1,2023-11-10,2023-11-10,,36.0,992,12,12.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0308,Empresa Corporativa CLI_0308,Otras Actividades de Servicios Generales,29,1,2024-01-22,2024-01-22,,47.5,919,29,29.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0309,Empresa Corporativa CLI_0309,Otras Actividades de Servicios (Comunidades y Edificios),224,5,2024-10-16,2026-05-28,52.0,52.0,62,37,46.75,-20.855614973262032,Activo y Saludable,No aplica
+CLI_0310,Empresa Corporativa CLI_0310,"Servicios Profesionales, Técnicos y Apoyo",66,2,2024-05-15,2025-11-04,538.0,538.0,267,24,42.0,-42.857142857142854,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0311,Empresa Corporativa CLI_0311,Transporte y Almacenamiento,42,3,2023-12-11,2024-11-27,176.0,176.0,609,1,20.5,-95.1219512195122,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0312,Empresa Corporativa CLI_0312,Otras Actividades de Servicios (Comunidades y Edificios),127,3,2023-12-04,2024-05-15,81.5,81.5,805,16,55.5,-71.17117117117117,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0313,Empresa Corporativa CLI_0313,Actividades de Atención de la Salud,227,15,2023-08-04,2026-04-29,48.5,48.5,91,7,15.714285714285714,-55.45454545454545,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0314,Empresa Corporativa CLI_0314,Otras Actividades de Servicios (Comunidades y Edificios),114,2,2024-06-25,2024-10-10,107.0,107.0,657,57,57.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0315,Empresa Corporativa CLI_0315,Otras Actividades de Servicios (Comunidades y Edificios),74,2,2024-10-16,2024-12-09,54.0,54.0,597,11,63.0,-82.53968253968253,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0316,Empresa Corporativa CLI_0316,Otras Actividades de Servicios (Comunidades y Edificios),36,1,2026-02-23,2026-02-23,,36.0,156,36,36.0,0.0,Ocasional / En Observación,No aplica
+CLI_0317,Empresa Corporativa CLI_0317,Comercio al por Mayor y Menor,37,2,2025-04-08,2025-06-30,83.0,83.0,394,5,32.0,-84.375,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0318,Empresa Corporativa CLI_0318,Otras Actividades de Servicios (Comunidades y Edificios),144,7,2025-01-29,2025-11-20,45.5,45.5,251,4,23.333333333333332,-82.85714285714285,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0319,Empresa Corporativa CLI_0319,"Servicios Profesionales, Técnicos y Apoyo",24,2,2024-03-27,2024-05-30,64.0,64.0,790,12,12.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0320,Empresa Corporativa CLI_0320,Otras Actividades de Servicios (Comunidades y Edificios),72,1,2024-04-24,2024-04-24,,36.0,826,72,72.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0321,Empresa Corporativa CLI_0321,Construcción,12,1,2025-01-09,2025-01-09,,30.0,566,12,12.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0322,Empresa Corporativa CLI_0322,Otras Actividades de Servicios (Comunidades y Edificios),57,3,2025-05-15,2025-11-18,93.5,93.5,253,3,27.0,-88.88888888888889,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0323,Empresa Corporativa CLI_0323,Enseñanza / Educación,13,1,2025-11-28,2025-11-28,,43.0,243,13,13.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0324,Empresa Corporativa CLI_0324,Enseñanza / Educación,87,2,2024-05-23,2026-06-08,746.0,746.0,51,40,47.0,-14.893617021276595,Activo y Saludable,No aplica
+CLI_0325,Empresa Corporativa CLI_0325,Otras Actividades de Servicios Generales,1,1,2024-08-06,2024-08-06,,47.5,722,1,1.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0326,Empresa Corporativa CLI_0326,Otras Actividades de Servicios Generales,156,1,2023-07-13,2023-07-13,,47.5,1112,156,156.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0327,Empresa Corporativa CLI_0327,Construcción,18,1,2025-04-07,2025-04-07,,30.0,478,18,18.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0328,Empresa Corporativa CLI_0328,Industria Manufacturera Alimenticia y Gastronomía,27,3,2023-12-11,2024-12-31,193.0,193.0,575,17,5.0,240.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0329,Empresa Corporativa CLI_0329,Actividades de Atención de la Salud,39,3,2024-05-10,2024-08-06,44.0,44.0,722,4,17.5,-77.14285714285715,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0330,Empresa Corporativa CLI_0330,Otras Actividades de Servicios Generales,1059,9,2023-08-02,2025-03-18,66.0,66.0,498,23,129.5,-82.23938223938224,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0331,Empresa Corporativa CLI_0331,Construcción,12,1,2026-05-26,2026-05-26,,30.0,64,12,12.0,0.0,Activo y Saludable,No aplica
+CLI_0332,Empresa Corporativa CLI_0332,"Servicios Profesionales, Técnicos y Apoyo",243,6,2023-09-27,2024-12-11,28.0,28.0,595,5,47.6,-89.49579831932773,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0333,Empresa Corporativa CLI_0333,Otras Actividades de Servicios Generales,158,3,2025-03-27,2025-05-19,26.5,26.5,436,3,77.5,-96.12903225806451,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0334,Empresa Corporativa CLI_0334,Construcción,72,1,2024-09-25,2024-09-25,,30.0,672,72,72.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0335,Empresa Corporativa CLI_0335,Otras Actividades de Servicios Generales,2,1,2023-08-09,2023-08-09,,47.5,1085,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0336,Empresa Corporativa CLI_0336,Industria Manufacturera Alimenticia y Gastronomía,5101,32,2024-10-11,2025-05-22,5.0,5.0,433,95,161.48387096774192,-41.17059528565721,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0337,Empresa Corporativa CLI_0337,Otras Actividades de Servicios Generales,48,1,2024-09-09,2024-09-09,,47.5,688,48,48.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0338,Empresa Corporativa CLI_0338,Comercio al por Mayor y Menor,31,2,2023-12-05,2024-02-02,59.0,59.0,908,3,28.0,-89.28571428571429,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0339,Empresa Corporativa CLI_0339,Comercio al por Mayor y Menor,124,2,2025-06-26,2026-07-14,383.0,383.0,15,81,43.0,88.37209302325581,Activo y Saludable,No aplica
+CLI_0340,Empresa Corporativa CLI_0340,Comercio al por Mayor y Menor,39,2,2023-11-13,2023-11-23,10.0,10.0,979,21,18.0,16.666666666666664,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0341,Empresa Corporativa CLI_0341,Comercio al por Mayor y Menor,81,3,2024-04-22,2024-05-24,16.0,16.0,796,4,38.5,-89.6103896103896,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0342,Empresa Corporativa CLI_0342,Otras Actividades de Servicios Generales,16,1,2024-01-30,2024-01-30,,47.5,911,16,16.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0343,Empresa Corporativa CLI_0343,"Servicios Profesionales, Técnicos y Apoyo",215,1,2026-01-05,2026-01-05,,37.0,205,215,215.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0344,Empresa Corporativa CLI_0344,"Servicios Profesionales, Técnicos y Apoyo",4,2,2023-08-14,2023-08-18,4.0,4.0,1076,1,3.0,-66.66666666666666,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0345,Empresa Corporativa CLI_0345,Construcción,26,1,2023-12-06,2023-12-06,,30.0,966,26,26.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0346,Empresa Corporativa CLI_0346,Otras Actividades de Servicios Generales,35,1,2023-10-02,2023-10-02,,47.5,1031,35,35.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0347,Empresa Corporativa CLI_0347,Comercio al por Mayor y Menor,4,1,2025-11-03,2025-11-03,,28.0,268,4,4.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0348,Empresa Corporativa CLI_0348,Comercio al por Mayor y Menor,27,2,2023-03-31,2024-01-26,301.0,301.0,915,20,7.0,185.71428571428572,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0349,Empresa Corporativa CLI_0349,Otras Actividades de Servicios Generales,13,1,2024-07-02,2024-07-02,,47.5,757,13,13.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0350,Empresa Corporativa CLI_0350,Otras Actividades de Servicios (Comunidades y Edificios),9,1,2024-09-26,2024-09-26,,36.0,671,9,9.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0351,Empresa Corporativa CLI_0351,Enseñanza / Educación,481,24,2023-12-13,2026-04-30,20.0,20.0,90,1,20.869565217391305,-95.20833333333333,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0352,Empresa Corporativa CLI_0352,Industria Manufacturera (No Alimenticia),75,3,2024-03-19,2026-02-25,354.0,354.0,154,21,27.0,-22.22222222222222,Activo y Saludable,No aplica
+CLI_0353,Empresa Corporativa CLI_0353,"Servicios Profesionales, Técnicos y Apoyo",71,6,2024-01-23,2024-04-09,13.0,13.0,841,3,13.6,-77.94117647058823,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0354,Empresa Corporativa CLI_0354,Transporte y Almacenamiento,431,3,2024-04-18,2024-11-06,101.0,101.0,630,135,148.0,-8.783783783783784,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0355,Empresa Corporativa CLI_0355,"Servicios Profesionales, Técnicos y Apoyo",8,2,2024-07-02,2024-08-16,45.0,45.0,712,4,4.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0356,Empresa Corporativa CLI_0356,Actividades Inmobiliarias y Financieras,52,4,2025-11-03,2026-03-05,24.0,24.0,146,1,17.0,-94.11764705882352,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0357,Empresa Corporativa CLI_0357,"Servicios Profesionales, Técnicos y Apoyo",488,6,2024-12-31,2026-04-15,13.0,13.0,105,177,62.2,184.5659163987138,Activo y Saludable,No aplica
+CLI_0358,Empresa Corporativa CLI_0358,"Organizaciones Sociales, Recreación y Deportes",78,3,2025-09-02,2025-11-11,35.0,35.0,260,2,38.0,-94.73684210526315,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0359,Empresa Corporativa CLI_0359,Comercio al por Mayor y Menor,50,10,2024-08-05,2025-11-24,53.0,53.0,247,2,5.333333333333333,-62.5,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0360,Empresa Corporativa CLI_0360,Actividades Inmobiliarias y Financieras,805,18,2024-08-13,2026-07-03,9.0,9.0,26,16,46.411764705882355,-65.52598225602027,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0361,Empresa Corporativa CLI_0361,Actividades Inmobiliarias y Financieras,64,5,2023-11-21,2024-10-03,14.5,14.5,664,8,14.0,-42.857142857142854,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0362,Empresa Corporativa CLI_0362,Construcción,439,34,2023-10-05,2026-06-12,21.0,21.0,47,2,13.242424242424242,-84.89702517162472,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0363,Empresa Corporativa CLI_0363,Otras Actividades de Servicios (Comunidades y Edificios),50,2,2025-10-30,2026-03-02,123.0,123.0,149,4,46.0,-91.30434782608695,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0364,Empresa Corporativa CLI_0364,Otras Actividades de Servicios (Comunidades y Edificios),7,1,2024-06-05,2024-06-05,,36.0,784,7,7.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0365,Empresa Corporativa CLI_0365,Industria Manufacturera Alimenticia y Gastronomía,2348,13,2023-08-17,2025-01-17,8.5,8.5,558,118,185.83333333333334,-36.502242152466366,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0366,Empresa Corporativa CLI_0366,Construcción,88,2,2023-10-03,2025-06-25,631.0,631.0,399,18,70.0,-74.28571428571429,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0367,Empresa Corporativa CLI_0367,"Organizaciones Sociales, Recreación y Deportes",94,2,2024-08-09,2025-02-04,179.0,179.0,540,47,47.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0368,Empresa Corporativa CLI_0368,Otras Actividades de Servicios (Comunidades y Edificios),93,3,2025-09-25,2025-12-01,33.5,33.5,240,56,18.5,202.7027027027027,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0369,Empresa Corporativa CLI_0369,Otras Actividades de Servicios (Comunidades y Edificios),111,1,2026-04-30,2026-04-30,,36.0,90,111,111.0,0.0,Activo y Saludable,No aplica
+CLI_0370,Empresa Corporativa CLI_0370,Otras Actividades de Servicios Generales,22,1,2023-10-24,2023-10-24,,47.5,1009,22,22.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0371,Empresa Corporativa CLI_0371,"Organizaciones Sociales, Recreación y Deportes",27,2,2023-12-13,2023-12-13,0.0,0.0,959,19,8.0,137.5,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0372,Empresa Corporativa CLI_0372,Construcción,18,1,2024-12-23,2024-12-23,,30.0,583,18,18.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0373,Empresa Corporativa CLI_0373,Transporte y Almacenamiento,18,3,2024-12-10,2025-01-15,18.0,18.0,560,2,8.0,-75.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0374,Empresa Corporativa CLI_0374,Otras Actividades de Servicios Generales,29,1,2023-10-24,2023-10-24,,47.5,1009,29,29.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0375,Empresa Corporativa CLI_0375,"Organizaciones Sociales, Recreación y Deportes",63,3,2024-05-27,2024-08-09,37.0,37.0,719,27,18.0,50.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0376,Empresa Corporativa CLI_0376,"Organizaciones Sociales, Recreación y Deportes",243,5,2023-12-28,2026-05-27,201.0,201.0,63,18,56.25,-68.0,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0377,Empresa Corporativa CLI_0377,Otras Actividades de Servicios Generales,42,1,2024-11-11,2024-11-11,,47.5,625,42,42.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0378,Empresa Corporativa CLI_0378,Otras Actividades de Servicios Generales,1,1,2025-11-28,2025-11-28,,47.5,243,1,1.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0379,Empresa Corporativa CLI_0379,Otras Actividades de Servicios (Comunidades y Edificios),23,2,2025-04-01,2026-04-29,393.0,393.0,91,9,14.0,-35.714285714285715,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0380,Empresa Corporativa CLI_0380,Otras Actividades de Servicios (Comunidades y Edificios),31,2,2024-11-28,2025-02-10,74.0,74.0,534,4,27.0,-85.18518518518519,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0381,Empresa Corporativa CLI_0381,Industria Manufacturera Alimenticia y Gastronomía,664,9,2023-10-20,2026-04-01,147.0,147.0,119,64,75.0,-14.666666666666666,Activo y Saludable,No aplica
+CLI_0382,Empresa Corporativa CLI_0382,Construcción,15,1,2025-09-03,2025-09-03,,30.0,329,15,15.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0383,Empresa Corporativa CLI_0383,Otras Actividades de Servicios (Comunidades y Edificios),8,1,2025-05-12,2025-05-12,,36.0,443,8,8.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0384,Empresa Corporativa CLI_0384,Actividades Inmobiliarias y Financieras,47,4,2025-04-15,2026-03-17,55.0,55.0,134,6,13.666666666666666,-56.09756097560975,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0385,Empresa Corporativa CLI_0385,Industria Manufacturera (No Alimenticia),5,2,2026-01-13,2026-01-15,2.0,2.0,195,4,1.0,300.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0386,Empresa Corporativa CLI_0386,Otras Actividades de Servicios Generales,161,1,2025-02-11,2025-02-11,,47.5,533,161,161.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0387,Empresa Corporativa CLI_0387,Otras Actividades de Servicios Generales,2,1,2025-07-07,2025-07-07,,47.5,387,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0388,Empresa Corporativa CLI_0388,Enseñanza / Educación,1275,4,2024-02-15,2024-07-25,46.0,46.0,734,3,424.0,-99.29245283018868,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0389,Empresa Corporativa CLI_0389,Otras Actividades de Servicios (Comunidades y Edificios),14,1,2025-05-02,2025-05-02,,36.0,453,14,14.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0390,Empresa Corporativa CLI_0390,Enseñanza / Educación,36,1,2025-07-25,2025-07-25,,43.0,369,36,36.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0391,Empresa Corporativa CLI_0391,Otras Actividades de Servicios (Comunidades y Edificios),114,5,2024-04-06,2024-07-10,25.5,25.5,749,52,15.5,235.48387096774195,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0392,Empresa Corporativa CLI_0392,Construcción,238,4,2024-01-05,2026-01-07,272.0,272.0,203,70,56.0,25.0,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0393,Empresa Corporativa CLI_0393,Transporte y Almacenamiento,279,14,2023-11-13,2026-06-30,37.0,37.0,29,1,21.384615384615383,-95.32374100719424,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0394,Empresa Corporativa CLI_0394,Construcción,65,3,2024-02-01,2024-06-04,62.0,62.0,785,1,32.0,-96.875,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0395,Empresa Corporativa CLI_0395,Otras Actividades de Servicios Generales,32,1,2023-11-30,2023-11-30,,47.5,972,32,32.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0396,Empresa Corporativa CLI_0396,Otras Actividades de Servicios Generales,34,1,2026-04-06,2026-04-06,,47.5,114,34,34.0,0.0,Ocasional / En Observación,No aplica
+CLI_0397,Empresa Corporativa CLI_0397,Industria Manufacturera (No Alimenticia),11,2,2024-04-18,2024-04-22,4.0,4.0,828,9,2.0,350.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0398,Empresa Corporativa CLI_0398,Otras Actividades de Servicios (Comunidades y Edificios),11,1,2025-04-28,2025-04-28,,36.0,457,11,11.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0399,Empresa Corporativa CLI_0399,Industria Manufacturera Alimenticia y Gastronomía,14,2,2025-10-14,2025-10-17,3.0,3.0,285,2,12.0,-83.33333333333334,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0400,Empresa Corporativa CLI_0400,Construcción,104,2,2025-10-20,2025-11-07,18.0,18.0,264,15,89.0,-83.14606741573034,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0401,Empresa Corporativa CLI_0401,Enseñanza / Educación,707,3,2023-11-22,2024-04-30,80.0,80.0,820,644,31.5,1944.4444444444443,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0402,Empresa Corporativa CLI_0402,Construcción,18,1,2024-11-15,2024-11-15,,30.0,621,18,18.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0403,Empresa Corporativa CLI_0403,Otras Actividades de Servicios (Comunidades y Edificios),154,3,2025-01-27,2025-05-22,57.5,57.5,433,3,75.5,-96.02649006622516,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0404,Empresa Corporativa CLI_0404,Otras Actividades de Servicios Generales,5,1,2023-09-29,2023-09-29,,47.5,1034,5,5.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0405,Empresa Corporativa CLI_0405,Otras Actividades de Servicios Generales,25,1,2024-02-12,2024-02-12,,47.5,898,25,25.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0406,Empresa Corporativa CLI_0406,"Servicios Profesionales, Técnicos y Apoyo",92,4,2024-01-04,2025-10-08,257.0,257.0,294,27,21.666666666666668,24.61538461538461,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0407,Empresa Corporativa CLI_0407,Actividades Inmobiliarias y Financieras,198,4,2024-03-28,2026-07-08,63.0,63.0,21,11,62.333333333333336,-82.35294117647058,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0408,Empresa Corporativa CLI_0408,Industria Manufacturera Alimenticia y Gastronomía,6,2,2024-10-28,2024-10-30,2.0,2.0,637,2,4.0,-50.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0409,Empresa Corporativa CLI_0409,Enseñanza / Educación,9,1,2025-04-21,2025-04-21,,43.0,464,9,9.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0410,Empresa Corporativa CLI_0410,Comercio al por Mayor y Menor,1000,17,2023-09-01,2025-05-20,14.5,14.5,435,14,61.625,-77.28194726166329,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0411,Empresa Corporativa CLI_0411,Otras Actividades de Servicios Generales,177,1,2024-05-28,2024-05-28,,47.5,792,177,177.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0412,Empresa Corporativa CLI_0412,Actividades Inmobiliarias y Financieras,105,4,2023-10-05,2026-07-02,300.0,300.0,27,8,32.333333333333336,-75.25773195876289,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0413,Empresa Corporativa CLI_0413,Otras Actividades de Servicios Generales,14,1,2025-05-28,2025-05-28,,47.5,427,14,14.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0414,Empresa Corporativa CLI_0414,Enseñanza / Educación,47,4,2023-12-29,2024-05-06,46.0,46.0,814,5,14.0,-64.28571428571429,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0415,Empresa Corporativa CLI_0415,Comercio al por Mayor y Menor,321,4,2025-02-11,2026-04-16,182.0,182.0,104,115,68.66666666666667,67.4757281553398,Activo y Saludable,No aplica
+CLI_0416,Empresa Corporativa CLI_0416,Otras Actividades de Servicios Generales,5,1,2025-07-14,2025-07-14,,47.5,380,5,5.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0417,Empresa Corporativa CLI_0417,"Servicios Profesionales, Técnicos y Apoyo",178,6,2023-10-30,2025-05-23,34.0,34.0,432,27,30.2,-10.596026490066222,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0418,Empresa Corporativa CLI_0418,Actividades de Atención de la Salud,16,2,2024-06-21,2024-07-18,27.0,27.0,741,11,5.0,120.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0419,Empresa Corporativa CLI_0419,Otras Actividades de Servicios Generales,214,2,2023-12-26,2024-03-11,76.0,76.0,870,118,96.0,22.916666666666664,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0420,Empresa Corporativa CLI_0420,Transporte y Almacenamiento,240,9,2023-08-10,2025-04-03,61.0,61.0,482,12,28.5,-57.89473684210527,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0421,Empresa Corporativa CLI_0421,Industria Manufacturera (No Alimenticia),48,2,2026-03-16,2026-05-22,67.0,67.0,68,36,12.0,200.0,Activo y Saludable,No aplica
+CLI_0422,Empresa Corporativa CLI_0422,Comercio al por Mayor y Menor,18,2,2024-08-20,2024-10-29,70.0,70.0,638,6,12.0,-50.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0423,Empresa Corporativa CLI_0423,"Servicios Profesionales, Técnicos y Apoyo",82,6,2023-12-27,2026-07-13,115.0,115.0,16,6,15.2,-60.526315789473685,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0424,Empresa Corporativa CLI_0424,Otras Actividades de Servicios (Comunidades y Edificios),8,1,2025-12-01,2025-12-01,,36.0,240,8,8.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0425,Empresa Corporativa CLI_0425,"Organizaciones Sociales, Recreación y Deportes",55,2,2023-11-30,2023-12-04,4.0,4.0,968,16,39.0,-58.97435897435898,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0426,Empresa Corporativa CLI_0426,Industria Manufacturera Alimenticia y Gastronomía,12,1,2023-08-08,2023-08-08,,21.5,1086,12,12.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0427,Empresa Corporativa CLI_0427,Enseñanza / Educación,692,16,2024-01-08,2026-07-13,35.0,35.0,16,20,44.8,-55.35714285714285,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0428,Empresa Corporativa CLI_0428,Construcción,81,1,2023-11-09,2023-11-09,,30.0,993,81,81.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0429,Empresa Corporativa CLI_0429,Administración Pública y Defensa,60,2,2023-12-01,2023-12-04,3.0,3.0,968,30,30.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0430,Empresa Corporativa CLI_0430,Otras Actividades de Servicios (Comunidades y Edificios),91,4,2025-09-12,2026-04-20,59.0,59.0,100,29,20.666666666666668,40.32258064516128,Activo y Saludable,No aplica
+CLI_0431,Empresa Corporativa CLI_0431,Otras Actividades de Servicios (Comunidades y Edificios),12,1,2026-04-21,2026-04-21,,36.0,99,12,12.0,0.0,Ocasional / En Observación,No aplica
+CLI_0432,Empresa Corporativa CLI_0432,Enseñanza / Educación,105,2,2024-03-07,2024-03-27,20.0,20.0,854,2,103.0,-98.05825242718447,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0433,Empresa Corporativa CLI_0433,Otras Actividades de Servicios Generales,5,1,2024-06-07,2024-06-07,,47.5,782,5,5.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0434,Empresa Corporativa CLI_0434,Comercio al por Mayor y Menor,91,4,2024-01-02,2024-02-12,13.0,13.0,898,4,29.0,-86.20689655172413,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0435,Empresa Corporativa CLI_0435,No Informado / Particular,295,3,2024-09-24,2025-11-12,207.0,207.0,259,215,40.0,437.5,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0436,Empresa Corporativa CLI_0436,Otras Actividades de Servicios Generales,2,1,2026-02-10,2026-02-10,,47.5,169,2,2.0,0.0,Ocasional / En Observación,No aplica
+CLI_0437,Empresa Corporativa CLI_0437,"Servicios Profesionales, Técnicos y Apoyo",127,4,2024-02-20,2026-05-12,33.0,33.0,78,5,40.666666666666664,-87.70491803278688,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0438,Empresa Corporativa CLI_0438,Otras Actividades de Servicios Generales,1,1,2025-02-20,2025-02-20,,47.5,524,1,1.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0439,Empresa Corporativa CLI_0439,Comercio al por Mayor y Menor,220,2,2024-10-08,2025-12-10,428.0,428.0,231,72,148.0,-51.35135135135135,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0440,Empresa Corporativa CLI_0440,Otras Actividades de Servicios (Comunidades y Edificios),11,1,2024-07-01,2024-07-01,,36.0,758,11,11.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0441,Empresa Corporativa CLI_0441,Otras Actividades de Servicios (Comunidades y Edificios),42,2,2025-04-23,2026-06-05,408.0,408.0,54,18,24.0,-25.0,Activo y Saludable,No aplica
+CLI_0442,Empresa Corporativa CLI_0442,Construcción,8,1,2024-02-12,2024-02-12,,30.0,898,8,8.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0443,Empresa Corporativa CLI_0443,Actividades Inmobiliarias y Financieras,86,4,2025-04-15,2026-07-03,108.0,108.0,26,13,24.333333333333332,-46.57534246575342,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0444,Empresa Corporativa CLI_0444,Otras Actividades de Servicios Generales,37,1,2025-12-16,2025-12-16,,47.5,225,37,37.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0445,Empresa Corporativa CLI_0445,Otras Actividades de Servicios Generales,9,1,2023-12-29,2023-12-29,,47.5,943,9,9.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0446,Empresa Corporativa CLI_0446,Comercio al por Mayor y Menor,1272,10,2024-11-04,2026-05-13,23.0,23.0,77,2,141.11111111111111,-98.58267716535433,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0447,Empresa Corporativa CLI_0447,Comercio al por Mayor y Menor,35,4,2024-01-16,2025-11-17,315.0,315.0,254,1,11.333333333333334,-91.17647058823529,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0448,Empresa Corporativa CLI_0448,Comercio al por Mayor y Menor,103,7,2023-11-28,2026-06-19,49.0,49.0,40,2,16.833333333333332,-88.11881188118812,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0449,Empresa Corporativa CLI_0449,Otras Actividades de Servicios Generales,38,1,2024-07-09,2024-07-09,,47.5,750,38,38.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0450,Empresa Corporativa CLI_0450,Otras Actividades de Servicios Generales,30,1,2024-11-29,2024-11-29,,47.5,607,30,30.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0451,Empresa Corporativa CLI_0451,Construcción,104,1,2024-07-09,2024-07-09,,30.0,750,104,104.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0452,Empresa Corporativa CLI_0452,Otras Actividades de Servicios (Comunidades y Edificios),143,1,2025-05-14,2025-05-14,,36.0,441,143,143.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0453,Empresa Corporativa CLI_0453,Otras Actividades de Servicios Generales,75,1,2024-02-19,2024-02-19,,47.5,891,75,75.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0454,Empresa Corporativa CLI_0454,Otras Actividades de Servicios (Comunidades y Edificios),531,5,2023-10-23,2025-07-14,154.5,154.5,380,2,132.25,-98.48771266540642,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0455,Empresa Corporativa CLI_0455,Otras Actividades de Servicios (Comunidades y Edificios),36,1,2023-09-28,2023-09-28,,36.0,1035,36,36.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0456,Empresa Corporativa CLI_0456,Otras Actividades de Servicios Generales,41,1,2023-12-21,2023-12-21,,47.5,951,41,41.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0457,Empresa Corporativa CLI_0457,"Servicios Profesionales, Técnicos y Apoyo",73,17,2023-08-21,2025-09-16,13.5,13.5,316,1,4.5,-77.77777777777779,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0458,Empresa Corporativa CLI_0458,Otras Actividades de Servicios Generales,2,1,2024-03-11,2024-03-11,,47.5,870,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0459,Empresa Corporativa CLI_0459,"Servicios Profesionales, Técnicos y Apoyo",27,3,2024-05-03,2024-07-23,40.5,40.5,736,2,12.5,-84.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0460,Empresa Corporativa CLI_0460,Actividades Inmobiliarias y Financieras,249,10,2023-11-22,2025-10-21,27.0,27.0,281,20,25.444444444444443,-21.39737991266375,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0461,Empresa Corporativa CLI_0461,Enseñanza / Educación,68,3,2024-02-01,2025-05-13,233.5,233.5,442,28,20.0,40.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0462,Empresa Corporativa CLI_0462,"Servicios Profesionales, Técnicos y Apoyo",64,2,2024-08-29,2024-09-05,7.0,7.0,692,4,60.0,-93.33333333333333,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0463,Empresa Corporativa CLI_0463,Otras Actividades de Servicios (Comunidades y Edificios),100,5,2024-07-23,2026-04-17,65.0,65.0,103,32,17.0,88.23529411764706,Activo y Saludable,No aplica
+CLI_0464,Empresa Corporativa CLI_0464,Otras Actividades de Servicios Generales,5,1,2026-07-23,2026-07-23,,47.5,6,5,5.0,0.0,Activo y Saludable,No aplica
+CLI_0465,Empresa Corporativa CLI_0465,Industria Manufacturera Alimenticia y Gastronomía,1015,24,2023-12-07,2026-03-25,28.0,28.0,126,21,43.21739130434783,-51.40845070422535,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0466,Empresa Corporativa CLI_0466,Enseñanza / Educación,250,14,2024-04-17,2026-06-08,35.0,35.0,51,4,18.923076923076923,-78.86178861788618,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0467,Empresa Corporativa CLI_0467,Otras Actividades de Servicios Generales,23,1,2024-04-09,2024-04-09,,47.5,841,23,23.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0468,Empresa Corporativa CLI_0468,Enseñanza / Educación,41,1,2024-04-09,2024-04-09,,43.0,841,41,41.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0469,Empresa Corporativa CLI_0469,Otras Actividades de Servicios Generales,23,1,2025-04-07,2025-04-07,,47.5,478,23,23.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0470,Empresa Corporativa CLI_0470,Otras Actividades de Servicios Generales,77,3,2024-05-24,2026-06-09,373.0,373.0,50,28,24.5,14.285714285714285,Activo y Saludable,No aplica
+CLI_0471,Empresa Corporativa CLI_0471,Otras Actividades de Servicios Generales,2,1,2024-03-01,2024-03-01,,47.5,880,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0472,Empresa Corporativa CLI_0472,Comercio al por Mayor y Menor,36,1,2024-04-26,2024-04-26,,28.0,824,36,36.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0473,Empresa Corporativa CLI_0473,"Servicios Profesionales, Técnicos y Apoyo",375,25,2024-01-23,2026-05-22,18.0,18.0,68,5,15.416666666666666,-67.56756756756756,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0474,Empresa Corporativa CLI_0474,Otras Actividades de Servicios (Comunidades y Edificios),27,2,2023-08-22,2023-12-18,118.0,118.0,954,10,17.0,-41.17647058823529,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0475,Empresa Corporativa CLI_0475,Otras Actividades de Servicios (Comunidades y Edificios),322,9,2023-09-12,2024-12-02,28.0,28.0,604,58,33.0,75.75757575757575,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0476,Empresa Corporativa CLI_0476,Enseñanza / Educación,63,2,2024-01-04,2024-03-13,69.0,69.0,868,7,56.0,-87.5,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0477,Empresa Corporativa CLI_0477,Otras Actividades de Servicios Generales,21,1,2024-03-11,2024-03-11,,47.5,870,21,21.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0478,Empresa Corporativa CLI_0478,No Informado / Particular,38,4,2024-04-12,2026-07-13,378.0,378.0,16,1,12.333333333333334,-91.8918918918919,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0479,Empresa Corporativa CLI_0479,Administración Pública y Defensa,16,2,2024-04-05,2024-04-15,10.0,10.0,835,8,8.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0480,Empresa Corporativa CLI_0480,Actividades Inmobiliarias y Financieras,14,2,2024-07-25,2024-07-29,4.0,4.0,730,1,13.0,-92.3076923076923,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0481,Empresa Corporativa CLI_0481,Otras Actividades de Servicios Generales,17,1,2023-11-24,2023-11-24,,47.5,978,17,17.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0482,Empresa Corporativa CLI_0482,"Servicios Profesionales, Técnicos y Apoyo",92,3,2024-10-28,2024-12-19,26.0,26.0,587,76,8.0,850.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0483,Empresa Corporativa CLI_0483,Otras Actividades de Servicios Generales,36,1,2026-01-16,2026-01-16,,47.5,194,36,36.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0484,Empresa Corporativa CLI_0484,Otras Actividades de Servicios Generales,61,1,2024-08-07,2024-08-07,,47.5,721,61,61.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0485,Empresa Corporativa CLI_0485,Enseñanza / Educación,24,1,2025-03-05,2025-03-05,,43.0,511,24,24.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0486,Empresa Corporativa CLI_0486,Otras Actividades de Servicios Generales,4,1,2024-04-02,2024-04-02,,47.5,848,4,4.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0487,Empresa Corporativa CLI_0487,Actividades Inmobiliarias y Financieras,137,2,2023-11-13,2024-06-28,228.0,228.0,761,79,58.0,36.206896551724135,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0488,Empresa Corporativa CLI_0488,Otras Actividades de Servicios Generales,125,1,2023-10-05,2023-10-05,,47.5,1028,125,125.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0489,Empresa Corporativa CLI_0489,Enseñanza / Educación,14,1,2024-04-04,2024-04-04,,43.0,846,14,14.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0490,Empresa Corporativa CLI_0490,Industria Manufacturera Alimenticia y Gastronomía,360,27,2023-10-23,2026-06-08,21.5,21.5,51,2,13.76923076923077,-85.47486033519553,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0491,Empresa Corporativa CLI_0491,Industria Manufacturera (No Alimenticia),4,2,2024-03-14,2024-03-25,11.0,11.0,856,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0492,Empresa Corporativa CLI_0492,Otras Actividades de Servicios Generales,6,1,2024-11-05,2024-11-05,,47.5,631,6,6.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0493,Empresa Corporativa CLI_0493,Comercio al por Mayor y Menor,239,3,2024-11-18,2025-11-12,179.5,179.5,259,35,102.0,-65.68627450980392,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0494,Empresa Corporativa CLI_0494,Enseñanza / Educación,4,1,2025-07-22,2025-07-22,,43.0,372,4,4.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0495,Empresa Corporativa CLI_0495,"Servicios Profesionales, Técnicos y Apoyo",358,7,2025-05-15,2026-07-13,43.5,43.5,16,14,57.333333333333336,-75.5813953488372,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0496,Empresa Corporativa CLI_0496,Industria Manufacturera Alimenticia y Gastronomía,162,5,2024-10-03,2026-01-28,131.5,131.5,182,30,33.0,-9.090909090909092,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0497,Empresa Corporativa CLI_0497,Otras Actividades de Servicios Generales,9,1,2024-04-04,2024-04-04,,47.5,846,9,9.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0498,Empresa Corporativa CLI_0498,Otras Actividades de Servicios (Comunidades y Edificios),56,1,2025-02-21,2025-02-21,,36.0,523,56,56.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0499,Empresa Corporativa CLI_0499,Otras Actividades de Servicios Generales,4,1,2024-12-05,2024-12-05,,47.5,601,4,4.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0500,Empresa Corporativa CLI_0500,Otras Actividades de Servicios Generales,22,1,2025-02-27,2025-02-27,,47.5,517,22,22.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0501,Empresa Corporativa CLI_0501,Otras Actividades de Servicios Generales,2,1,2024-05-27,2024-05-27,,47.5,793,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0502,Empresa Corporativa CLI_0502,Industria Manufacturera (No Alimenticia),94,2,2026-07-17,2026-07-28,11.0,11.0,1,47,47.0,0.0,Activo y Saludable,No aplica
+CLI_0503,Empresa Corporativa CLI_0503,Comercio al por Mayor y Menor,51,3,2024-02-29,2024-04-18,24.5,24.5,832,42,4.5,833.3333333333334,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0504,Empresa Corporativa CLI_0504,No Informado / Particular,50,2,2024-04-19,2024-07-30,102.0,102.0,729,34,16.0,112.5,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0505,Empresa Corporativa CLI_0505,"Servicios Profesionales, Técnicos y Apoyo",92,5,2023-08-17,2024-10-16,104.5,104.5,651,4,22.0,-81.81818181818183,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0506,Empresa Corporativa CLI_0506,Industria Manufacturera (No Alimenticia),192,2,2024-11-18,2025-01-28,71.0,71.0,547,96,96.0,0.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0507,Empresa Corporativa CLI_0507,Enseñanza / Educación,50,1,2023-09-07,2023-09-07,,43.0,1056,50,50.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0508,Empresa Corporativa CLI_0508,Transporte y Almacenamiento,356,3,2025-07-25,2026-05-27,153.0,153.0,63,122,117.0,4.273504273504273,Activo y Saludable,No aplica
+CLI_0509,Empresa Corporativa CLI_0509,Otras Actividades de Servicios Generales,55,1,2025-11-19,2025-11-19,,47.5,252,55,55.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0510,Empresa Corporativa CLI_0510,"Organizaciones Sociales, Recreación y Deportes",118,2,2024-07-09,2024-10-02,85.0,85.0,665,3,115.0,-97.3913043478261,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0511,Empresa Corporativa CLI_0511,Comercio al por Mayor y Menor,21,1,2024-09-30,2024-09-30,,28.0,667,21,21.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0512,Empresa Corporativa CLI_0512,Actividades Inmobiliarias y Financieras,1324,24,2024-08-22,2026-05-20,13.0,13.0,70,101,53.17391304347826,89.94276369582994,Activo y Saludable,No aplica
+CLI_0513,Empresa Corporativa CLI_0513,Actividades Inmobiliarias y Financieras,160,7,2024-02-07,2026-07-23,53.0,53.0,6,9,25.166666666666668,-64.2384105960265,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0514,Empresa Corporativa CLI_0514,Otras Actividades de Servicios Generales,33,1,2024-03-15,2024-03-15,,47.5,866,33,33.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0515,Empresa Corporativa CLI_0515,Otras Actividades de Servicios (Comunidades y Edificios),232,11,2024-05-07,2025-10-17,18.0,18.0,285,2,23.0,-91.30434782608695,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0516,Empresa Corporativa CLI_0516,"Servicios Profesionales, Técnicos y Apoyo",351,4,2025-01-28,2025-06-24,41.0,41.0,400,119,77.33333333333333,53.879310344827594,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0517,Empresa Corporativa CLI_0517,Otras Actividades de Servicios Generales,9,1,2023-08-29,2023-08-29,,47.5,1065,9,9.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0518,Empresa Corporativa CLI_0518,"Organizaciones Sociales, Recreación y Deportes",68,3,2023-11-06,2025-05-13,277.0,277.0,442,33,17.5,88.57142857142857,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0519,Empresa Corporativa CLI_0519,Otras Actividades de Servicios Generales,4,1,2026-05-07,2026-05-07,,47.5,83,4,4.0,0.0,Activo y Saludable,No aplica
+CLI_0520,Empresa Corporativa CLI_0520,"Servicios Profesionales, Técnicos y Apoyo",9,2,2024-10-09,2026-01-08,456.0,456.0,202,1,8.0,-87.5,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0521,Empresa Corporativa CLI_0521,Minería y Extracción,937,23,2023-07-31,2026-07-12,33.5,33.5,17,61,39.81818181818182,53.19634703196346,Activo y Saludable,No aplica
+CLI_0522,Empresa Corporativa CLI_0522,"Organizaciones Sociales, Recreación y Deportes",8,3,2023-10-24,2023-11-17,12.0,12.0,985,2,3.0,-33.33333333333333,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0523,Empresa Corporativa CLI_0523,Industria Manufacturera Alimenticia y Gastronomía,396,7,2024-01-30,2026-03-10,41.0,41.0,141,10,64.33333333333333,-84.4559585492228,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0524,Empresa Corporativa CLI_0524,Comercio al por Mayor y Menor,3,1,2025-01-08,2025-01-08,,28.0,567,3,3.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0525,Empresa Corporativa CLI_0525,Comercio al por Mayor y Menor,14,1,2024-07-23,2024-07-23,,28.0,736,14,14.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0526,Empresa Corporativa CLI_0526,Construcción,2172,22,2023-08-10,2026-02-18,19.0,19.0,161,34,101.80952380952381,-66.60430308699719,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0527,Empresa Corporativa CLI_0527,Comercio al por Mayor y Menor,351,8,2024-02-01,2024-06-17,12.0,12.0,772,2,49.857142857142854,-95.98853868194843,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0528,Empresa Corporativa CLI_0528,"Organizaciones Sociales, Recreación y Deportes",16,2,2023-08-11,2023-11-29,110.0,110.0,973,13,3.0,333.33333333333337,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0529,Empresa Corporativa CLI_0529,Otras Actividades de Servicios Generales,70,1,2025-04-09,2025-04-09,,47.5,476,70,70.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0530,Empresa Corporativa CLI_0530,Comercio al por Mayor y Menor,1148,11,2024-02-13,2026-05-06,40.5,40.5,84,2,114.6,-98.25479930191972,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0531,Empresa Corporativa CLI_0531,"Servicios Profesionales, Técnicos y Apoyo",2,1,2024-02-02,2024-02-02,,37.0,908,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0532,Empresa Corporativa CLI_0532,Enseñanza / Educación,141,7,2023-09-12,2025-11-17,102.0,102.0,254,1,23.333333333333332,-95.71428571428572,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0533,Empresa Corporativa CLI_0533,Otras Actividades de Servicios Generales,2,1,2023-08-31,2023-08-31,,47.5,1063,2,2.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0534,Empresa Corporativa CLI_0534,Administración Pública y Defensa,15,3,2024-05-14,2024-05-28,7.0,7.0,792,2,6.5,-69.23076923076923,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0535,Empresa Corporativa CLI_0535,Otras Actividades de Servicios Generales,38,1,2025-03-12,2025-03-12,,47.5,504,38,38.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0536,Empresa Corporativa CLI_0536,Actividades Inmobiliarias y Financieras,23,3,2026-02-03,2026-03-05,15.0,15.0,146,5,9.0,-44.44444444444444,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0537,Empresa Corporativa CLI_0537,Industria Manufacturera (No Alimenticia),67,2,2024-07-08,2025-12-10,520.0,520.0,231,7,60.0,-88.33333333333333,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0538,Empresa Corporativa CLI_0538,"Servicios Profesionales, Técnicos y Apoyo",156,6,2024-03-04,2026-07-29,200.0,200.0,0,4,30.4,-86.8421052631579,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0539,Empresa Corporativa CLI_0539,Enseñanza / Educación,108,5,2023-11-10,2024-12-26,45.0,45.0,580,2,26.5,-92.45283018867924,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0540,Empresa Corporativa CLI_0540,Otras Actividades de Servicios (Comunidades y Edificios),45,3,2024-05-08,2024-06-25,24.0,24.0,764,5,20.0,-75.0,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0541,Empresa Corporativa CLI_0541,Comercio al por Mayor y Menor,136,2,2025-01-27,2025-06-03,127.0,127.0,421,76,60.0,26.666666666666668,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0542,Empresa Corporativa CLI_0542,Comercio al por Mayor y Menor,243,7,2025-03-27,2026-06-05,25.5,25.5,54,20,37.166666666666664,-46.18834080717488,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0543,Empresa Corporativa CLI_0543,Otras Actividades de Servicios Generales,12,1,2023-09-11,2023-09-11,,47.5,1052,12,12.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0544,Empresa Corporativa CLI_0544,Comercio al por Mayor y Menor,284,1,2023-10-20,2023-10-20,,28.0,1013,284,284.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0545,Empresa Corporativa CLI_0545,Transporte y Almacenamiento,8,2,2024-08-09,2024-08-28,19.0,19.0,700,1,7.0,-85.71428571428571,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0546,Empresa Corporativa CLI_0546,Otras Actividades de Servicios (Comunidades y Edificios),16,1,2024-05-30,2024-05-30,,36.0,790,16,16.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0547,Empresa Corporativa CLI_0547,Otras Actividades de Servicios (Comunidades y Edificios),66,2,2025-08-18,2025-09-17,30.0,30.0,315,4,62.0,-93.54838709677419,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0548,Empresa Corporativa CLI_0548,"Servicios Profesionales, Técnicos y Apoyo",103,2,2024-03-10,2025-03-25,380.0,380.0,491,43,60.0,-28.333333333333332,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0549,Empresa Corporativa CLI_0549,Otras Actividades de Servicios (Comunidades y Edificios),29,1,2025-04-16,2025-04-16,,36.0,469,29,29.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0550,Empresa Corporativa CLI_0550,Transporte y Almacenamiento,30,3,2026-06-03,2026-07-13,20.0,20.0,16,4,13.0,-69.23076923076923,Contracción de Presupuesto (Downsell Activo),No aplica
+CLI_0551,Empresa Corporativa CLI_0551,Otras Actividades de Servicios Generales,14,1,2025-07-21,2025-07-21,,47.5,373,14,14.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0552,Empresa Corporativa CLI_0552,Otras Actividades de Servicios (Comunidades y Edificios),11,2,2026-03-31,2026-06-01,62.0,62.0,58,9,2.0,350.0,Activo y Saludable,No aplica
+CLI_0553,Empresa Corporativa CLI_0553,Industria Manufacturera Alimenticia y Gastronomía,47,1,2023-08-07,2023-08-07,,21.5,1087,47,47.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0554,Empresa Corporativa CLI_0554,Otras Actividades de Servicios (Comunidades y Edificios),26,3,2024-10-21,2026-01-14,225.0,225.0,196,22,2.0,1000.0,En Riesgo de Fuga (6-9m sin compra),No aplica
+CLI_0555,Empresa Corporativa CLI_0555,Comercio al por Mayor y Menor,9,1,2024-03-18,2024-03-18,,28.0,863,9,9.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0556,Empresa Corporativa CLI_0556,"Organizaciones Sociales, Recreación y Deportes",112,5,2023-11-28,2024-04-10,32.0,32.0,840,1,27.75,-96.3963963963964,Fuga Confirmada (Churn > 9m),Recurrente Perdido (True Churn)
+CLI_0557,Empresa Corporativa CLI_0557,Otras Actividades de Servicios (Comunidades y Edificios),5,1,2023-08-29,2023-08-29,,36.0,1065,5,5.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0558,Empresa Corporativa CLI_0558,Otras Actividades de Servicios Generales,122,1,2025-03-11,2025-03-11,,47.5,505,122,122.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0559,Empresa Corporativa CLI_0559,Otras Actividades de Servicios Generales,38,1,2023-09-20,2023-09-20,,47.5,1043,38,38.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
+CLI_0560,Empresa Corporativa CLI_0560,Otras Actividades de Servicios (Comunidades y Edificios),23,1,2024-11-18,2024-11-18,,36.0,618,23,23.0,0.0,Fuga Confirmada (Churn > 9m),Compra Única (One-Off)
